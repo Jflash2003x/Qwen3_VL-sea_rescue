@@ -1,0 +1,36 @@
+{
+  "base": [
+    {
+      "image_name": "16735.jpg",
+      "preds": [],
+      "raw_response": "```json\n[\n\t{\"bbox_2d\": [578, 312, 637, 388], \"label\": \"人\"}\n]\n```"
+    },
+    {
+      "image_name": "8664.jpg",
+      "preds": [],
+      "raw_response": "```json\n[\n\t{\"bbox_2d\": [424, 127, 457, 177], \"label\": \"boat\"},\n\t{\"bbox_2d\": [745, 627, 786, 727], \"label\": \"boat\"},\n\t{\"bbox_2d\": [609, 714, 625, 733], \"label\": \"person\"},\n\t{\"bbox_2d\": [616, 817, 622, 835], \"label\": \"person\"},\n\t{\"bbox_2d\": [652, 733, 659, 747], \"label\": \"person\"},\n\t{\"bbox_2d\": [688, "
+    },
+    {
+      "image_name": "3071.jpg",
+      "preds": [],
+      "raw_response": "```json\n[\n\t{\"bbox_2d\": [257, 75, 315, 143], \"label\": \"boat\"}\n]\n```"
+    }
+  ],
+  "v2": [
+    {
+      "image_name": "16735.jpg",
+      "preds": [],
+      "raw_response": "```json\n[\n\t{\"bbox_2d\": [571, 309, 637, 394], \"label\": \"浮标\"}\n]\n```"
+    },
+    {
+      "image_name": "8664.jpg",
+      "preds": [],
+      "raw_response": "```json\n[\n\t{\"bbox_2d\": [746, 628, 785, 727], \"label\": \"船\"},\n\t{\"bbox_2d\": [425, 129, 458, 177], \"label\": \"船\"},\n\t{\"bbox_2d\": [612, 521, 628, 532], \"label\": \"人\"},\n\t{\"bbox_2d\": [679, 497, 685, 512], \"label\": \"人\"},\n\t{\"bbox_2d\": [699, 583, 713, 601], \"label\": \"人\"},\n\t{\"bbox_2d\": [685, 694, 691, 709], \"labe"
+    },
+    {
+      "image_name": "3071.jpg",
+      "preds": [],
+      "raw_response": "```json\n[\n\t{\"bbox_2d\": [257, 77, 315, 145], \"label\": \"船\"}\n]\n```"
+    }
+  ]
+}
