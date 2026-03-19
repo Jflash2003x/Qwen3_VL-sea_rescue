@@ -1,0 +1,268 @@
+(vllm_env) root@autodl-container-b45b478ac7-fc0f9370:~/autodl-tmp/qwen_vl# /root/miniconda3/envs/vllm_env/bin/python /root/autodl-tmp/qwen_vl/full_ft_train/train_full_ft.py
+============================================================
+  Qwen3-VL-8B 全参数微调
+============================================================
+  GPU:        NVIDIA RTX PRO 6000 Blackwell Server Edition
+  显存:       95 GB
+  PyTorch:    2.10.0+cu128
+  CUDA:       12.8
+  配置已保存: /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/train_config.json
+
+[1/5] 加载模型: /root/autodl-tmp/qwen_vl/models/Qwen/Qwen3-VL-8B-Instruct
+`torch_dtype` is deprecated! Use `dtype` instead!
+Loading checkpoint shards: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:04<00:00,  1.17s/it]
+  总参数:     8.77B
+  可训练参数: 8.77B (100.0%)
+  模型显存:   16.3 GB
+
+[2/5] 加载处理器
+
+[3/5] 加载数据集
+  加载数据: /root/autodl-tmp/qwen_vl/finetune_data_v2/train_split.json
+  样本数: 8037
+  加载数据: /root/autodl-tmp/qwen_vl/finetune_data_v2/val_split.json
+  样本数: 893
+
+[4/5] 配置优化器
+  训练集样本数:    8037
+  验证集样本数:    893
+  每轮步数:        503
+  总训练步数:      1509
+  Warmup 步数:     75
+  等效 batch size: 16
+  学习率:          1e-05
+
+[5/5] 开始训练！
+============================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Epoch 1/3
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+  [Step    10/1509] loss: 1.1099 | lr: 1.33e-06 | 显存: 83.2GB | 速度: 14.9s/step | 剩余≈6h 12m 18s
+  [Step    20/1509] loss: 0.9910 | lr: 2.67e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈6h 7m 55s
+  [Step    30/1509] loss: 0.7263 | lr: 4.00e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈6h 4m 54s
+  [Step    40/1509] loss: 0.5692 | lr: 5.33e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈6h 2m 9s
+  [Step    50/1509] loss: 0.4889 | lr: 6.67e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 59m 29s
+  [Step    60/1509] loss: 0.4582 | lr: 8.00e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 56m 58s
+  [Step    70/1509] loss: 0.4425 | lr: 9.33e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 54m 24s
+  [Step    80/1509] loss: 0.4295 | lr: 1.00e-05 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 51m 52s
+  [Step    90/1509] loss: 0.4172 | lr: 1.00e-05 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 49m 27s
+  [Step   100/1509] loss: 0.4094 | lr: 9.99e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 46m 59s
+  [Step   110/1509] loss: 0.4094 | lr: 9.99e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 44m 33s
+  [Step   120/1509] loss: 0.4086 | lr: 9.98e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 42m 3s
+  [Step   130/1509] loss: 0.4046 | lr: 9.96e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 39m 33s
+  [Step   140/1509] loss: 0.4002 | lr: 9.95e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 37m 5s
+  [Step   150/1509] loss: 0.3969 | lr: 9.93e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 34m 35s
+  [Step   160/1509] loss: 0.3909 | lr: 9.91e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 32m 7s
+  [Step   170/1509] loss: 0.3858 | lr: 9.89e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 29m 39s
+  [Step   180/1509] loss: 0.3878 | lr: 9.87e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 27m 11s
+  [Step   190/1509] loss: 0.3834 | lr: 9.84e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 24m 43s
+  [Step   200/1509] loss: 0.3808 | lr: 9.81e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 22m 15s
+  [Step   210/1509] loss: 0.3782 | lr: 9.78e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 19m 47s
+  [Step   220/1509] loss: 0.3737 | lr: 9.75e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 17m 19s
+  [Step   230/1509] loss: 0.3825 | lr: 9.71e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 14m 51s
+  [Step   240/1509] loss: 0.3708 | lr: 9.68e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 12m 23s
+  [Step   250/1509] loss: 0.3734 | lr: 9.64e-06 | 显存: 83.2GB | 速度: 14.8s/step | 剩余≈5h 9m 56s
+
+  ── 验证中 (最多 100 batch) ──
+  验证 loss: 0.3760
+  ✅ 新的最佳！保存到: /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/best_model
+  ── 验证结束，继续训练 ──
+
+  [Step   260/1509] loss: 0.3722 | lr: 9.59e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈5h 13m 49s
+  [Step   270/1509] loss: 0.3733 | lr: 9.55e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈5h 11m 6s
+  [Step   280/1509] loss: 0.3714 | lr: 9.50e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈5h 8m 22s
+  [Step   290/1509] loss: 0.3590 | lr: 9.46e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈5h 5m 41s
+  [Step   300/1509] loss: 0.3709 | lr: 9.40e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈5h 2m 59s
+  [Step   310/1509] loss: 0.3708 | lr: 9.35e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈5h 0m 20s
+  [Step   320/1509] loss: 0.3602 | lr: 9.30e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 57m 40s
+  [Step   330/1509] loss: 0.3600 | lr: 9.24e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 55m 1s
+  [Step   340/1509] loss: 0.3656 | lr: 9.18e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 52m 23s
+  [Step   350/1509] loss: 0.3800 | lr: 9.12e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 49m 45s
+  [Step   360/1509] loss: 0.3662 | lr: 9.06e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 47m 6s
+  [Step   370/1509] loss: 0.3656 | lr: 8.99e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 44m 29s
+  [Step   380/1509] loss: 0.3601 | lr: 8.92e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 41m 52s
+  [Step   390/1509] loss: 0.3666 | lr: 8.86e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 39m 16s
+  [Step   400/1509] loss: 0.3597 | lr: 8.79e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 36m 40s
+  [Step   410/1509] loss: 0.3619 | lr: 8.71e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 34m 4s
+  [Step   420/1509] loss: 0.3606 | lr: 8.64e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 31m 29s
+  [Step   430/1509] loss: 0.3549 | lr: 8.56e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈4h 28m 54s
+  [Step   440/1509] loss: 0.3532 | lr: 8.48e-06 | 显存: 83.2GB | 速度: 14.9s/step | 剩余≈4h 26m 20s
+  [Step   450/1509] loss: 0.3479 | lr: 8.41e-06 | 显存: 83.2GB | 速度: 14.9s/step | 剩余≈4h 23m 46s
+  [Step   460/1509] loss: 0.3469 | lr: 8.32e-06 | 显存: 83.2GB | 速度: 14.9s/step | 剩余≈4h 21m 12s
+  [Step   470/1509] loss: 0.3451 | lr: 8.24e-06 | 显存: 83.2GB | 速度: 14.9s/step | 剩余≈4h 18m 39s
+  [Step   480/1509] loss: 0.3469 | lr: 8.16e-06 | 显存: 83.2GB | 速度: 14.9s/step | 剩余≈4h 16m 6s
+  [Step   490/1509] loss: 0.3461 | lr: 8.07e-06 | 显存: 83.2GB | 速度: 14.9s/step | 剩余≈4h 13m 33s
+  [Step   500/1509] loss: 0.3529 | lr: 7.98e-06 | 显存: 83.2GB | 速度: 14.9s/step | 剩余≈4h 11m 0s
+
+  ── 验证中 (最多 100 batch) ──
+  验证 loss: 0.3536
+  ✅ 新的最佳！保存到: /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/best_model
+  ── 验证结束，继续训练 ──
+
+
+  Epoch 1 完成 | 平均 loss: 0.4151 | NaN: 0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Epoch 2/3
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [Step   510/1509] loss: 0.3528 | lr: 7.90e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈4h 11m 46s
+  [Step   520/1509] loss: 0.3482 | lr: 7.81e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈4h 9m 8s
+  [Step   530/1509] loss: 0.3358 | lr: 7.71e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈4h 6m 30s
+  [Step   540/1509] loss: 0.3394 | lr: 7.62e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈4h 3m 53s
+  [Step   550/1509] loss: 0.3480 | lr: 7.53e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈4h 1m 16s
+  [Step   560/1509] loss: 0.3371 | lr: 7.43e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 58m 39s
+  [Step   570/1509] loss: 0.3355 | lr: 7.34e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 56m 3s
+  [Step   580/1509] loss: 0.3483 | lr: 7.24e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 53m 27s
+  [Step   590/1509] loss: 0.3390 | lr: 7.14e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 50m 52s
+  [Step   600/1509] loss: 0.3513 | lr: 7.04e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 48m 16s
+  [Step   610/1509] loss: 0.3552 | lr: 6.94e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 45m 41s
+  [Step   620/1509] loss: 0.3433 | lr: 6.84e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 43m 6s
+  [Step   630/1509] loss: 0.3363 | lr: 6.74e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 40m 31s
+  [Step   640/1509] loss: 0.3370 | lr: 6.63e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 37m 57s
+  [Step   650/1509] loss: 0.3467 | lr: 6.53e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 35m 22s
+  [Step   660/1509] loss: 0.3412 | lr: 6.43e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 32m 48s
+  [Step   670/1509] loss: 0.3415 | lr: 6.32e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 30m 14s
+  [Step   680/1509] loss: 0.3399 | lr: 6.21e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 27m 41s
+  [Step   690/1509] loss: 0.3379 | lr: 6.11e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 25m 7s
+  [Step   700/1509] loss: 0.3375 | lr: 6.00e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 22m 33s
+  [Step   710/1509] loss: 0.3351 | lr: 5.89e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 20m 0s
+  [Step   720/1509] loss: 0.3378 | lr: 5.79e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 17m 27s
+  [Step   730/1509] loss: 0.3341 | lr: 5.68e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 14m 54s
+  [Step   740/1509] loss: 0.3457 | lr: 5.57e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 12m 21s
+  [Step   750/1509] loss: 0.3400 | lr: 5.46e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈3h 9m 48s
+
+  ── 验证中 (最多 100 batch) ──
+  验证 loss: 0.3440
+  ✅ 新的最佳！保存到: /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/best_model
+  ── 验证结束，继续训练 ──
+
+  [Step   760/1509] loss: 0.3277 | lr: 5.35e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 8m 50s
+  [Step   770/1509] loss: 0.3350 | lr: 5.24e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 6m 15s
+  [Step   780/1509] loss: 0.3356 | lr: 5.13e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 3m 40s
+  [Step   790/1509] loss: 0.3437 | lr: 5.02e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈3h 1m 5s
+  [Step   800/1509] loss: 0.3373 | lr: 4.91e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 58m 31s
+  [Step   810/1509] loss: 0.3339 | lr: 4.80e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 55m 57s
+  [Step   820/1509] loss: 0.3381 | lr: 4.69e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 53m 23s
+  [Step   830/1509] loss: 0.3306 | lr: 4.58e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 50m 49s
+  [Step   840/1509] loss: 0.3359 | lr: 4.48e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 48m 15s
+  [Step   850/1509] loss: 0.3401 | lr: 4.37e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 45m 42s
+  [Step   860/1509] loss: 0.3387 | lr: 4.26e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 43m 8s
+  [Step   870/1509] loss: 0.3341 | lr: 4.15e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 40m 35s
+  [Step   880/1509] loss: 0.3352 | lr: 4.04e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 38m 2s
+  [Step   890/1509] loss: 0.3359 | lr: 3.93e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 35m 28s
+  [Step   900/1509] loss: 0.3344 | lr: 3.83e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 32m 56s
+  [Step   910/1509] loss: 0.3340 | lr: 3.72e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 30m 23s
+  [Step   920/1509] loss: 0.3475 | lr: 3.62e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 27m 50s
+  [Step   930/1509] loss: 0.3344 | lr: 3.51e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 25m 17s
+  [Step   940/1509] loss: 0.3342 | lr: 3.41e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 22m 45s
+  [Step   950/1509] loss: 0.3343 | lr: 3.30e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 20m 13s
+  [Step   960/1509] loss: 0.3271 | lr: 3.20e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈2h 17m 40s
+  [Step   970/1509] loss: 0.3303 | lr: 3.10e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈2h 15m 8s
+  [Step   980/1509] loss: 0.3338 | lr: 3.00e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈2h 12m 36s
+  [Step   990/1509] loss: 0.3281 | lr: 2.90e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈2h 10m 4s
+  [Step  1000/1509] loss: 0.3334 | lr: 2.80e-06 | 显存: 83.2GB | 速度: 15.0s/step | 剩余≈2h 7m 32s
+
+  ── 验证中 (最多 100 batch) ──
+  验证 loss: 0.3392
+  ✅ 新的最佳！保存到: /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/best_model
+  ── 验证结束，继续训练 ──
+
+
+  Epoch 2 完成 | 平均 loss: 0.3383 | NaN: 0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Epoch 3/3
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [Step  1010/1509] loss: 0.3295 | lr: 2.70e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 5m 49s
+  [Step  1020/1509] loss: 0.3399 | lr: 2.61e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 3m 16s
+  [Step  1030/1509] loss: 0.3328 | lr: 2.51e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2h 0m 43s
+  [Step  1040/1509] loss: 0.3316 | lr: 2.42e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 58m 10s
+  [Step  1050/1509] loss: 0.3275 | lr: 2.32e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 55m 37s
+  [Step  1060/1509] loss: 0.3302 | lr: 2.23e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 53m 4s
+  [Step  1070/1509] loss: 0.3215 | lr: 2.14e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 50m 31s
+  [Step  1080/1509] loss: 0.3182 | lr: 2.05e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 47m 59s
+  [Step  1090/1509] loss: 0.3287 | lr: 1.96e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 45m 27s
+  [Step  1100/1509] loss: 0.3379 | lr: 1.88e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 42m 54s
+  [Step  1110/1509] loss: 0.3237 | lr: 1.79e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 40m 22s
+  [Step  1120/1509] loss: 0.3240 | lr: 1.71e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 37m 50s
+  [Step  1130/1509] loss: 0.3134 | lr: 1.63e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 35m 18s
+  [Step  1140/1509] loss: 0.3345 | lr: 1.55e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 32m 46s
+  [Step  1150/1509] loss: 0.3282 | lr: 1.47e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 30m 14s
+  [Step  1160/1509] loss: 0.3173 | lr: 1.39e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 27m 42s
+  [Step  1170/1509] loss: 0.3194 | lr: 1.32e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 25m 10s
+  [Step  1180/1509] loss: 0.3297 | lr: 1.24e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 22m 39s
+  [Step  1190/1509] loss: 0.3298 | lr: 1.17e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 20m 7s
+  [Step  1200/1509] loss: 0.3321 | lr: 1.10e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 17m 35s
+  [Step  1210/1509] loss: 0.3279 | lr: 1.03e-06 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 15m 4s
+  [Step  1220/1509] loss: 0.3311 | lr: 9.69e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 12m 32s
+  [Step  1230/1509] loss: 0.3392 | lr: 9.05e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 10m 1s
+  [Step  1240/1509] loss: 0.3209 | lr: 8.43e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 7m 30s
+  [Step  1250/1509] loss: 0.3317 | lr: 7.84e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 4m 59s
+
+  ── 验证中 (最多 100 batch) ──
+  验证 loss: 0.3389
+  ✅ 新的最佳！保存到: /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/best_model
+  ── 验证结束，继续训练 ──
+
+  [Step  1260/1509] loss: 0.3295 | lr: 7.26e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 2m 46s
+  [Step  1270/1509] loss: 0.3266 | lr: 6.70e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈1h 0m 14s
+  [Step  1280/1509] loss: 0.3281 | lr: 6.16e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈57m 42s
+  [Step  1290/1509] loss: 0.3328 | lr: 5.65e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈55m 10s
+  [Step  1300/1509] loss: 0.3369 | lr: 5.15e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈52m 39s
+  [Step  1310/1509] loss: 0.3268 | lr: 4.68e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈50m 7s
+  [Step  1320/1509] loss: 0.3366 | lr: 4.23e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈47m 35s
+  [Step  1330/1509] loss: 0.3311 | lr: 3.80e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈45m 4s
+  [Step  1340/1509] loss: 0.3332 | lr: 3.39e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈42m 32s
+  [Step  1350/1509] loss: 0.3223 | lr: 3.00e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈40m 1s
+  [Step  1360/1509] loss: 0.3318 | lr: 2.64e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈37m 29s
+  [Step  1370/1509] loss: 0.3303 | lr: 2.30e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈34m 58s
+  [Step  1380/1509] loss: 0.3311 | lr: 1.98e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈32m 27s
+  [Step  1390/1509] loss: 0.3205 | lr: 1.69e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈29m 55s
+  [Step  1400/1509] loss: 0.3195 | lr: 1.42e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈27m 24s
+  [Step  1410/1509] loss: 0.3203 | lr: 1.17e-07 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈24m 53s
+  [Step  1420/1509] loss: 0.3391 | lr: 9.47e-08 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈22m 22s
+  [Step  1430/1509] loss: 0.3239 | lr: 7.47e-08 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈19m 51s
+  [Step  1440/1509] loss: 0.3303 | lr: 5.70e-08 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈17m 20s
+  [Step  1450/1509] loss: 0.3362 | lr: 4.17e-08 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈14m 49s
+  [Step  1460/1509] loss: 0.3326 | lr: 2.88e-08 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈12m 18s
+  [Step  1470/1509] loss: 0.3339 | lr: 1.82e-08 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈9m 47s
+  [Step  1480/1509] loss: 0.3370 | lr: 1.01e-08 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈7m 17s
+  [Step  1490/1509] loss: 0.3234 | lr: 4.33e-09 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈4m 46s
+  [Step  1500/1509] loss: 0.3333 | lr: 9.72e-10 | 显存: 83.2GB | 速度: 15.1s/step | 剩余≈2m 15s
+
+  ── 验证中 (最多 100 batch) ──
+  验证 loss: 0.3388
+  ✅ 新的最佳！保存到: /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/best_model
+  ── 验证结束，继续训练 ──
+
+
+  Epoch 3 完成 | 平均 loss: 0.3289 | NaN: 0
+
+  保存最终模型: /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/final_model
+
+  生成训练曲线图...
+  📊 曲线图已保存: /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/training_curves.png
+
+============================================================
+  📋 训练完成摘要
+============================================================
+  总用时:           6h 19m 46s
+  总训练步数:       1506
+  最佳 val loss:    0.3388
+  NaN 总计:         0 次
+  峰值显存:         83.2 GB
+
+  输出文件:
+    最佳模型:   /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/best_model/
+    最终模型:   /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/final_model/
+    训练日志:   /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/training_log.csv
+    曲线图:     /root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output/training_curves.png
+============================================================
+  ✅ 完成！用 vLLM 加载 best_model/ 推理即可。
+============================================================
+
+✅ 训练正常完成！
+
+30秒后自动关机，取消请按 Ctrl+C

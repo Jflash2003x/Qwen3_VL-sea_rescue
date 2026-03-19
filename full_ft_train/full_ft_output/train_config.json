@@ -1,0 +1,21 @@
+{
+  "model_path": "/root/autodl-tmp/qwen_vl/models/Qwen/Qwen3-VL-8B-Instruct",
+  "data_base": "/root/autodl-tmp/qwen_vl/finetune_data_v2",
+  "output_dir": "/root/autodl-tmp/qwen_vl/full_ft_train/full_ft_output",
+  "train_file": "train_split.json",
+  "val_file": "val_split.json",
+  "learning_rate": 1e-05,
+  "num_epochs": 3,
+  "batch_size": 2,
+  "gradient_accumulation_steps": 8,
+  "warmup_ratio": 0.05,
+  "weight_decay": 0.01,
+  "max_grad_norm": 1.0,
+  "max_pixels": 451584,
+  "min_pixels": 112896,
+  "max_length": 2560,
+  "log_every": 10,
+  "eval_every": 250,
+  "save_every": 999999,
+  "eval_max_batches": 100
+}
