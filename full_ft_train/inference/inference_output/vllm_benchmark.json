@@ -1,0 +1,21 @@
+{
+  "total_samples": 1547,
+  "batch_size": 8,
+  "gpu_memory_utilization": 0.95,
+  "original_model": {
+    "total_predictions": 42,
+    "avg_predictions_per_image": 0.027149321266968326,
+    "avg_inference_time_ms": 1367.9852693714322,
+    "throughput_images_per_sec": 0.7157284209714505,
+    "total_time_sec": 2161.434357881546,
+    "gpu_memory_usage_gb": 0
+  },
+  "finetuned_model": {
+    "total_predictions": 0,
+    "avg_predictions_per_image": 0.0,
+    "avg_inference_time_ms": 1457.5362453633304,
+    "throughput_images_per_sec": 0.6718158742306006,
+    "total_time_sec": 2302.714269399643,
+    "gpu_memory_usage_gb": 0
+  }
+}
