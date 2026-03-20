@@ -1,0 +1,1027 @@
+{
+  "config": {
+    "num_test_images": 1547,
+    "total_gt_targets": 9630,
+    "iou_thresholds": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.75,
+      0.8
+    ],
+    "coordinate_system": "normalized_0_1000",
+    "note": "GT来自convert.py的bbox_to_normalized, 模型输出也是0-1000, 不做任何转换"
+  },
+  "base_model": {
+    "results": {
+      "0.10": {
+        "tp": 8139,
+        "fp": 949,
+        "fn": 1491,
+        "precision": 0.8956,
+        "recall": 0.8452,
+        "f1": 0.8696,
+        "avg_iou": 0.6751,
+        "cls_accuracy": 0.8743,
+        "mean_img_precision": 0.915,
+        "mean_img_recall": 0.8711,
+        "mean_category_recall": 0.7744,
+        "category": {
+          "水中人员": {
+            "tp": 5259,
+            "gt": 6141,
+            "fp": 813,
+            "precision": 0.8661,
+            "recall": 0.8564,
+            "f1": 0.8612
+          },
+          "船只": {
+            "tp": 1897,
+            "gt": 2060,
+            "fp": 86,
+            "precision": 0.9566,
+            "recall": 0.9209,
+            "f1": 0.9384
+          },
+          "水上摩托": {
+            "tp": 330,
+            "gt": 366,
+            "fp": 0,
+            "precision": 1.0,
+            "recall": 0.9016,
+            "f1": 0.9483
+          },
+          "救生设备": {
+            "tp": 211,
+            "gt": 403,
+            "fp": 9,
+            "precision": 0.9591,
+            "recall": 0.5236,
+            "f1": 0.6774
+          },
+          "浮标": {
+            "tp": 442,
+            "gt": 660,
+            "fp": 41,
+            "precision": 0.9151,
+            "recall": 0.6697,
+            "f1": 0.7734
+          }
+        }
+      },
+      "0.20": {
+        "tp": 8052,
+        "fp": 1036,
+        "fn": 1578,
+        "precision": 0.886,
+        "recall": 0.8361,
+        "f1": 0.8603,
+        "avg_iou": 0.6817,
+        "cls_accuracy": 0.8752,
+        "mean_img_precision": 0.9068,
+        "mean_img_recall": 0.8633,
+        "mean_category_recall": 0.7612,
+        "category": {
+          "水中人员": {
+            "tp": 5203,
+            "gt": 6141,
+            "fp": 888,
+            "precision": 0.8542,
+            "recall": 0.8473,
+            "f1": 0.8507
+          },
+          "船只": {
+            "tp": 1890,
+            "gt": 2060,
+            "fp": 87,
+            "precision": 0.956,
+            "recall": 0.9175,
+            "f1": 0.9363
+          },
+          "水上摩托": {
+            "tp": 326,
+            "gt": 366,
+            "fp": 0,
+            "precision": 1.0,
+            "recall": 0.8907,
+            "f1": 0.9422
+          },
+          "救生设备": {
+            "tp": 198,
+            "gt": 403,
+            "fp": 9,
+            "precision": 0.9565,
+            "recall": 0.4913,
+            "f1": 0.6492
+          },
+          "浮标": {
+            "tp": 435,
+            "gt": 660,
+            "fp": 52,
+            "precision": 0.8932,
+            "recall": 0.6591,
+            "f1": 0.7585
+          }
+        }
+      },
+      "0.30": {
+        "tp": 7792,
+        "fp": 1296,
+        "fn": 1838,
+        "precision": 0.8574,
+        "recall": 0.8091,
+        "f1": 0.8326,
+        "avg_iou": 0.6965,
+        "cls_accuracy": 0.8778,
+        "mean_img_precision": 0.8801,
+        "mean_img_recall": 0.8375,
+        "mean_category_recall": 0.7292,
+        "category": {
+          "水中人员": {
+            "tp": 5012,
+            "gt": 6141,
+            "fp": 1110,
+            "precision": 0.8187,
+            "recall": 0.8162,
+            "f1": 0.8174
+          },
+          "船只": {
+            "tp": 1874,
+            "gt": 2060,
+            "fp": 107,
+            "precision": 0.946,
+            "recall": 0.9097,
+            "f1": 0.9275
+          },
+          "水上摩托": {
+            "tp": 322,
+            "gt": 366,
+            "fp": 0,
+            "precision": 1.0,
+            "recall": 0.8798,
+            "f1": 0.936
+          },
+          "救生设备": {
+            "tp": 161,
+            "gt": 403,
+            "fp": 9,
+            "precision": 0.9471,
+            "recall": 0.3995,
+            "f1": 0.562
+          },
+          "浮标": {
+            "tp": 423,
+            "gt": 660,
+            "fp": 70,
+            "precision": 0.858,
+            "recall": 0.6409,
+            "f1": 0.7337
+          }
+        }
+      },
+      "0.40": {
+        "tp": 7372,
+        "fp": 1716,
+        "fn": 2258,
+        "precision": 0.8112,
+        "recall": 0.7655,
+        "f1": 0.7877,
+        "avg_iou": 0.7161,
+        "cls_accuracy": 0.8797,
+        "mean_img_precision": 0.8395,
+        "mean_img_recall": 0.799,
+        "mean_category_recall": 0.6927,
+        "category": {
+          "水中人员": {
+            "tp": 4666,
+            "gt": 6141,
+            "fp": 1471,
+            "precision": 0.7603,
+            "recall": 0.7598,
+            "f1": 0.7601
+          },
+          "船只": {
+            "tp": 1854,
+            "gt": 2060,
+            "fp": 130,
+            "precision": 0.9345,
+            "recall": 0.9,
+            "f1": 0.9169
+          },
+          "水上摩托": {
+            "tp": 319,
+            "gt": 366,
+            "fp": 0,
+            "precision": 1.0,
+            "recall": 0.8716,
+            "f1": 0.9314
+          },
+          "救生设备": {
+            "tp": 129,
+            "gt": 403,
+            "fp": 7,
+            "precision": 0.9485,
+            "recall": 0.3201,
+            "f1": 0.4787
+          },
+          "浮标": {
+            "tp": 404,
+            "gt": 660,
+            "fp": 108,
+            "precision": 0.7891,
+            "recall": 0.6121,
+            "f1": 0.6894
+          }
+        }
+      },
+      "0.50": {
+        "tp": 6679,
+        "fp": 2409,
+        "fn": 2951,
+        "precision": 0.7349,
+        "recall": 0.6936,
+        "f1": 0.7136,
+        "avg_iou": 0.7431,
+        "cls_accuracy": 0.8799,
+        "mean_img_precision": 0.7719,
+        "mean_img_recall": 0.7349,
+        "mean_category_recall": 0.6429,
+        "category": {
+          "水中人员": {
+            "tp": 4089,
+            "gt": 6141,
+            "fp": 2052,
+            "precision": 0.6659,
+            "recall": 0.6659,
+            "f1": 0.6659
+          },
+          "船只": {
+            "tp": 1801,
+            "gt": 2060,
+            "fp": 190,
+            "precision": 0.9046,
+            "recall": 0.8743,
+            "f1": 0.8892
+          },
+          "水上摩托": {
+            "tp": 307,
+            "gt": 366,
+            "fp": 0,
+            "precision": 1.0,
+            "recall": 0.8388,
+            "f1": 0.9123
+          },
+          "救生设备": {
+            "tp": 109,
+            "gt": 403,
+            "fp": 7,
+            "precision": 0.9397,
+            "recall": 0.2705,
+            "f1": 0.42
+          },
+          "浮标": {
+            "tp": 373,
+            "gt": 660,
+            "fp": 160,
+            "precision": 0.6998,
+            "recall": 0.5652,
+            "f1": 0.6253
+          }
+        }
+      },
+      "0.60": {
+        "tp": 5594,
+        "fp": 3494,
+        "fn": 4036,
+        "precision": 0.6155,
+        "recall": 0.5809,
+        "f1": 0.5977,
+        "avg_iou": 0.7803,
+        "cls_accuracy": 0.8829,
+        "mean_img_precision": 0.6594,
+        "mean_img_recall": 0.6255,
+        "mean_category_recall": 0.557,
+        "category": {
+          "水中人员": {
+            "tp": 3209,
+            "gt": 6141,
+            "fp": 2949,
+            "precision": 0.5211,
+            "recall": 0.5226,
+            "f1": 0.5218
+          },
+          "船只": {
+            "tp": 1706,
+            "gt": 2060,
+            "fp": 310,
+            "precision": 0.8462,
+            "recall": 0.8282,
+            "f1": 0.8371
+          },
+          "水上摩托": {
+            "tp": 272,
+            "gt": 366,
+            "fp": 1,
+            "precision": 0.9963,
+            "recall": 0.7432,
+            "f1": 0.8513
+          },
+          "救生设备": {
+            "tp": 77,
+            "gt": 403,
+            "fp": 7,
+            "precision": 0.9167,
+            "recall": 0.1911,
+            "f1": 0.3162
+          },
+          "浮标": {
+            "tp": 330,
+            "gt": 660,
+            "fp": 227,
+            "precision": 0.5925,
+            "recall": 0.5,
+            "f1": 0.5423
+          }
+        }
+      },
+      "0.70": {
+        "tp": 4171,
+        "fp": 4917,
+        "fn": 5459,
+        "precision": 0.459,
+        "recall": 0.4331,
+        "f1": 0.4457,
+        "avg_iou": 0.8248,
+        "cls_accuracy": 0.889,
+        "mean_img_precision": 0.5036,
+        "mean_img_recall": 0.4767,
+        "mean_category_recall": 0.4261,
+        "category": {
+          "水中人员": {
+            "tp": 2151,
+            "gt": 6141,
+            "fp": 4041,
+            "precision": 0.3474,
+            "recall": 0.3503,
+            "f1": 0.3488
+          },
+          "船只": {
+            "tp": 1514,
+            "gt": 2060,
+            "fp": 550,
+            "precision": 0.7335,
+            "recall": 0.735,
+            "f1": 0.7342
+          },
+          "水上摩托": {
+            "tp": 198,
+            "gt": 366,
+            "fp": 7,
+            "precision": 0.9659,
+            "recall": 0.541,
+            "f1": 0.6935
+          },
+          "救生设备": {
+            "tp": 39,
+            "gt": 403,
+            "fp": 8,
+            "precision": 0.8298,
+            "recall": 0.0968,
+            "f1": 0.1733
+          },
+          "浮标": {
+            "tp": 269,
+            "gt": 660,
+            "fp": 311,
+            "precision": 0.4638,
+            "recall": 0.4076,
+            "f1": 0.4339
+          }
+        }
+      },
+      "0.75": {
+        "tp": 3369,
+        "fp": 5719,
+        "fn": 6261,
+        "precision": 0.3707,
+        "recall": 0.3498,
+        "f1": 0.36,
+        "avg_iou": 0.8486,
+        "cls_accuracy": 0.886,
+        "mean_img_precision": 0.4133,
+        "mean_img_recall": 0.3917,
+        "mean_category_recall": 0.3648,
+        "category": {
+          "水中人员": {
+            "tp": 1564,
+            "gt": 6141,
+            "fp": 4626,
+            "precision": 0.2527,
+            "recall": 0.2547,
+            "f1": 0.2537
+          },
+          "船只": {
+            "tp": 1368,
+            "gt": 2060,
+            "fp": 722,
+            "precision": 0.6545,
+            "recall": 0.6641,
+            "f1": 0.6593
+          },
+          "水上摩托": {
+            "tp": 176,
+            "gt": 366,
+            "fp": 7,
+            "precision": 0.9617,
+            "recall": 0.4809,
+            "f1": 0.6412
+          },
+          "救生设备": {
+            "tp": 30,
+            "gt": 403,
+            "fp": 8,
+            "precision": 0.7895,
+            "recall": 0.0744,
+            "f1": 0.1361
+          },
+          "浮标": {
+            "tp": 231,
+            "gt": 660,
+            "fp": 356,
+            "precision": 0.3935,
+            "recall": 0.35,
+            "f1": 0.3705
+          }
+        }
+      },
+      "0.80": {
+        "tp": 2492,
+        "fp": 6596,
+        "fn": 7138,
+        "precision": 0.2742,
+        "recall": 0.2588,
+        "f1": 0.2663,
+        "avg_iou": 0.8747,
+        "cls_accuracy": 0.8832,
+        "mean_img_precision": 0.3104,
+        "mean_img_recall": 0.2951,
+        "mean_category_recall": 0.2856,
+        "category": {
+          "水中人员": {
+            "tp": 1018,
+            "gt": 6141,
+            "fp": 5177,
+            "precision": 0.1643,
+            "recall": 0.1658,
+            "f1": 0.165
+          },
+          "船只": {
+            "tp": 1127,
+            "gt": 2060,
+            "fp": 1010,
+            "precision": 0.5274,
+            "recall": 0.5471,
+            "f1": 0.5371
+          },
+          "水上摩托": {
+            "tp": 142,
+            "gt": 366,
+            "fp": 7,
+            "precision": 0.953,
+            "recall": 0.388,
+            "f1": 0.5515
+          },
+          "救生设备": {
+            "tp": 17,
+            "gt": 403,
+            "fp": 10,
+            "precision": 0.6296,
+            "recall": 0.0422,
+            "f1": 0.0791
+          },
+          "浮标": {
+            "tp": 188,
+            "gt": 660,
+            "fp": 392,
+            "precision": 0.3241,
+            "recall": 0.2848,
+            "f1": 0.3032
+          }
+        }
+      }
+    },
+    "speed": {
+      "avg_per_image": 1.29,
+      "total": 1995.63,
+      "throughput": 0.78
+    }
+  },
+  "v2_model": {
+    "results": {
+      "0.10": {
+        "tp": 8360,
+        "fp": 296,
+        "fn": 1270,
+        "precision": 0.9658,
+        "recall": 0.8681,
+        "f1": 0.9144,
+        "avg_iou": 0.6974,
+        "cls_accuracy": 0.934,
+        "mean_img_precision": 0.8838,
+        "mean_img_recall": 0.8696,
+        "mean_category_recall": 0.7709,
+        "category": {
+          "水中人员": {
+            "tp": 5717,
+            "gt": 6141,
+            "fp": 220,
+            "precision": 0.9629,
+            "recall": 0.931,
+            "f1": 0.9467
+          },
+          "船只": {
+            "tp": 1687,
+            "gt": 2060,
+            "fp": 53,
+            "precision": 0.9695,
+            "recall": 0.8189,
+            "f1": 0.8879
+          },
+          "水上摩托": {
+            "tp": 331,
+            "gt": 366,
+            "fp": 10,
+            "precision": 0.9707,
+            "recall": 0.9044,
+            "f1": 0.9364
+          },
+          "救生设备": {
+            "tp": 262,
+            "gt": 403,
+            "fp": 5,
+            "precision": 0.9813,
+            "recall": 0.6501,
+            "f1": 0.7821
+          },
+          "浮标": {
+            "tp": 363,
+            "gt": 660,
+            "fp": 8,
+            "precision": 0.9784,
+            "recall": 0.55,
+            "f1": 0.7042
+          }
+        }
+      },
+      "0.20": {
+        "tp": 8272,
+        "fp": 384,
+        "fn": 1358,
+        "precision": 0.9556,
+        "recall": 0.859,
+        "f1": 0.9047,
+        "avg_iou": 0.7033,
+        "cls_accuracy": 0.9344,
+        "mean_img_precision": 0.8753,
+        "mean_img_recall": 0.8615,
+        "mean_category_recall": 0.7636,
+        "category": {
+          "水中人员": {
+            "tp": 5642,
+            "gt": 6141,
+            "fp": 303,
+            "precision": 0.949,
+            "recall": 0.9187,
+            "f1": 0.9336
+          },
+          "船只": {
+            "tp": 1683,
+            "gt": 2060,
+            "fp": 55,
+            "precision": 0.9684,
+            "recall": 0.817,
+            "f1": 0.8863
+          },
+          "水上摩托": {
+            "tp": 328,
+            "gt": 366,
+            "fp": 12,
+            "precision": 0.9647,
+            "recall": 0.8962,
+            "f1": 0.9292
+          },
+          "救生设备": {
+            "tp": 257,
+            "gt": 403,
+            "fp": 5,
+            "precision": 0.9809,
+            "recall": 0.6377,
+            "f1": 0.7729
+          },
+          "浮标": {
+            "tp": 362,
+            "gt": 660,
+            "fp": 9,
+            "precision": 0.9757,
+            "recall": 0.5485,
+            "f1": 0.7022
+          }
+        }
+      },
+      "0.30": {
+        "tp": 8073,
+        "fp": 583,
+        "fn": 1557,
+        "precision": 0.9326,
+        "recall": 0.8383,
+        "f1": 0.883,
+        "avg_iou": 0.7143,
+        "cls_accuracy": 0.9353,
+        "mean_img_precision": 0.8562,
+        "mean_img_recall": 0.8428,
+        "mean_category_recall": 0.7461,
+        "category": {
+          "水中人员": {
+            "tp": 5471,
+            "gt": 6141,
+            "fp": 486,
+            "precision": 0.9184,
+            "recall": 0.8909,
+            "f1": 0.9044
+          },
+          "船只": {
+            "tp": 1681,
+            "gt": 2060,
+            "fp": 57,
+            "precision": 0.9672,
+            "recall": 0.816,
+            "f1": 0.8852
+          },
+          "水上摩托": {
+            "tp": 324,
+            "gt": 366,
+            "fp": 15,
+            "precision": 0.9558,
+            "recall": 0.8852,
+            "f1": 0.9191
+          },
+          "救生设备": {
+            "tp": 242,
+            "gt": 403,
+            "fp": 10,
+            "precision": 0.9603,
+            "recall": 0.6005,
+            "f1": 0.7389
+          },
+          "浮标": {
+            "tp": 355,
+            "gt": 660,
+            "fp": 15,
+            "precision": 0.9595,
+            "recall": 0.5379,
+            "f1": 0.6893
+          }
+        }
+      },
+      "0.40": {
+        "tp": 7698,
+        "fp": 958,
+        "fn": 1932,
+        "precision": 0.8893,
+        "recall": 0.7994,
+        "f1": 0.842,
+        "avg_iou": 0.7319,
+        "cls_accuracy": 0.9376,
+        "mean_img_precision": 0.8243,
+        "mean_img_recall": 0.8124,
+        "mean_category_recall": 0.7117,
+        "category": {
+          "水中人员": {
+            "tp": 5152,
+            "gt": 6141,
+            "fp": 836,
+            "precision": 0.8604,
+            "recall": 0.839,
+            "f1": 0.8495
+          },
+          "船只": {
+            "tp": 1677,
+            "gt": 2060,
+            "fp": 59,
+            "precision": 0.966,
+            "recall": 0.8141,
+            "f1": 0.8836
+          },
+          "水上摩托": {
+            "tp": 320,
+            "gt": 366,
+            "fp": 16,
+            "precision": 0.9524,
+            "recall": 0.8743,
+            "f1": 0.9117
+          },
+          "救生设备": {
+            "tp": 206,
+            "gt": 403,
+            "fp": 21,
+            "precision": 0.9075,
+            "recall": 0.5112,
+            "f1": 0.654
+          },
+          "浮标": {
+            "tp": 343,
+            "gt": 660,
+            "fp": 26,
+            "precision": 0.9295,
+            "recall": 0.5197,
+            "f1": 0.6667
+          }
+        }
+      },
+      "0.50": {
+        "tp": 7059,
+        "fp": 1597,
+        "fn": 2571,
+        "precision": 0.8155,
+        "recall": 0.733,
+        "f1": 0.7721,
+        "avg_iou": 0.7573,
+        "cls_accuracy": 0.9392,
+        "mean_img_precision": 0.7627,
+        "mean_img_recall": 0.7524,
+        "mean_category_recall": 0.6633,
+        "category": {
+          "水中人员": {
+            "tp": 4595,
+            "gt": 6141,
+            "fp": 1431,
+            "precision": 0.7625,
+            "recall": 0.7482,
+            "f1": 0.7553
+          },
+          "船只": {
+            "tp": 1660,
+            "gt": 2060,
+            "fp": 74,
+            "precision": 0.9573,
+            "recall": 0.8058,
+            "f1": 0.8751
+          },
+          "水上摩托": {
+            "tp": 314,
+            "gt": 366,
+            "fp": 17,
+            "precision": 0.9486,
+            "recall": 0.8579,
+            "f1": 0.901
+          },
+          "救生设备": {
+            "tp": 168,
+            "gt": 403,
+            "fp": 34,
+            "precision": 0.8317,
+            "recall": 0.4169,
+            "f1": 0.5554
+          },
+          "浮标": {
+            "tp": 322,
+            "gt": 660,
+            "fp": 41,
+            "precision": 0.8871,
+            "recall": 0.4879,
+            "f1": 0.6295
+          }
+        }
+      },
+      "0.60": {
+        "tp": 6054,
+        "fp": 2602,
+        "fn": 3576,
+        "precision": 0.6994,
+        "recall": 0.6287,
+        "f1": 0.6621,
+        "avg_iou": 0.7916,
+        "cls_accuracy": 0.9405,
+        "mean_img_precision": 0.6645,
+        "mean_img_recall": 0.6554,
+        "mean_category_recall": 0.5904,
+        "category": {
+          "水中人员": {
+            "tp": 3723,
+            "gt": 6141,
+            "fp": 2343,
+            "precision": 0.6137,
+            "recall": 0.6063,
+            "f1": 0.61
+          },
+          "船只": {
+            "tp": 1619,
+            "gt": 2060,
+            "fp": 110,
+            "precision": 0.9364,
+            "recall": 0.7859,
+            "f1": 0.8546
+          },
+          "水上摩托": {
+            "tp": 292,
+            "gt": 366,
+            "fp": 29,
+            "precision": 0.9097,
+            "recall": 0.7978,
+            "f1": 0.8501
+          },
+          "救生设备": {
+            "tp": 130,
+            "gt": 403,
+            "fp": 42,
+            "precision": 0.7558,
+            "recall": 0.3226,
+            "f1": 0.4522
+          },
+          "浮标": {
+            "tp": 290,
+            "gt": 660,
+            "fp": 78,
+            "precision": 0.788,
+            "recall": 0.4394,
+            "f1": 0.5642
+          }
+        }
+      },
+      "0.70": {
+        "tp": 4692,
+        "fp": 3964,
+        "fn": 4938,
+        "precision": 0.5421,
+        "recall": 0.4872,
+        "f1": 0.5132,
+        "avg_iou": 0.8326,
+        "cls_accuracy": 0.9397,
+        "mean_img_precision": 0.5284,
+        "mean_img_recall": 0.5205,
+        "mean_category_recall": 0.4889,
+        "category": {
+          "水中人员": {
+            "tp": 2589,
+            "gt": 6141,
+            "fp": 3515,
+            "precision": 0.4241,
+            "recall": 0.4216,
+            "f1": 0.4229
+          },
+          "船只": {
+            "tp": 1507,
+            "gt": 2060,
+            "fp": 222,
+            "precision": 0.8716,
+            "recall": 0.7316,
+            "f1": 0.7955
+          },
+          "水上摩托": {
+            "tp": 241,
+            "gt": 366,
+            "fp": 67,
+            "precision": 0.7825,
+            "recall": 0.6585,
+            "f1": 0.7151
+          },
+          "救生设备": {
+            "tp": 98,
+            "gt": 403,
+            "fp": 49,
+            "precision": 0.6667,
+            "recall": 0.2432,
+            "f1": 0.3564
+          },
+          "浮标": {
+            "tp": 257,
+            "gt": 660,
+            "fp": 111,
+            "precision": 0.6984,
+            "recall": 0.3894,
+            "f1": 0.5
+          }
+        }
+      },
+      "0.75": {
+        "tp": 3888,
+        "fp": 4768,
+        "fn": 5742,
+        "precision": 0.4492,
+        "recall": 0.4037,
+        "f1": 0.4252,
+        "avg_iou": 0.855,
+        "cls_accuracy": 0.9398,
+        "mean_img_precision": 0.4469,
+        "mean_img_recall": 0.4404,
+        "mean_category_recall": 0.4191,
+        "category": {
+          "水中人员": {
+            "tp": 1950,
+            "gt": 6141,
+            "fp": 4172,
+            "precision": 0.3185,
+            "recall": 0.3175,
+            "f1": 0.318
+          },
+          "船只": {
+            "tp": 1434,
+            "gt": 2060,
+            "fp": 298,
+            "precision": 0.8279,
+            "recall": 0.6961,
+            "f1": 0.7563
+          },
+          "水上摩托": {
+            "tp": 206,
+            "gt": 366,
+            "fp": 97,
+            "precision": 0.6799,
+            "recall": 0.5628,
+            "f1": 0.6158
+          },
+          "救生设备": {
+            "tp": 70,
+            "gt": 403,
+            "fp": 62,
+            "precision": 0.5303,
+            "recall": 0.1737,
+            "f1": 0.2617
+          },
+          "浮标": {
+            "tp": 228,
+            "gt": 660,
+            "fp": 139,
+            "precision": 0.6213,
+            "recall": 0.3455,
+            "f1": 0.444
+          }
+        }
+      },
+      "0.80": {
+        "tp": 2996,
+        "fp": 5660,
+        "fn": 6634,
+        "precision": 0.3461,
+        "recall": 0.3111,
+        "f1": 0.3277,
+        "avg_iou": 0.8792,
+        "cls_accuracy": 0.9372,
+        "mean_img_precision": 0.3515,
+        "mean_img_recall": 0.3465,
+        "mean_category_recall": 0.3425,
+        "category": {
+          "水中人员": {
+            "tp": 1304,
+            "gt": 6141,
+            "fp": 4832,
+            "precision": 0.2125,
+            "recall": 0.2123,
+            "f1": 0.2124
+          },
+          "船只": {
+            "tp": 1279,
+            "gt": 2060,
+            "fp": 463,
+            "precision": 0.7342,
+            "recall": 0.6209,
+            "f1": 0.6728
+          },
+          "水上摩托": {
+            "tp": 170,
+            "gt": 366,
+            "fp": 125,
+            "precision": 0.5763,
+            "recall": 0.4645,
+            "f1": 0.5144
+          },
+          "救生设备": {
+            "tp": 48,
+            "gt": 403,
+            "fp": 68,
+            "precision": 0.4138,
+            "recall": 0.1191,
+            "f1": 0.185
+          },
+          "浮标": {
+            "tp": 195,
+            "gt": 660,
+            "fp": 172,
+            "precision": 0.5313,
+            "recall": 0.2955,
+            "f1": 0.3797
+          }
+        }
+      }
+    },
+    "speed": {
+      "avg_per_image": 1.23,
+      "total": 1902.81,
+      "throughput": 0.81
+    }
+  }
+}

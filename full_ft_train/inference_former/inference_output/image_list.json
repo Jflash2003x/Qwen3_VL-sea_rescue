@@ -1,0 +1,6190 @@
+[
+  {
+    "image_name": "16735.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16735.jpg"
+  },
+  {
+    "image_name": "8664.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8664.jpg"
+  },
+  {
+    "image_name": "3071.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3071.jpg"
+  },
+  {
+    "image_name": "16757.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16757.jpg"
+  },
+  {
+    "image_name": "7753.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7753.jpg"
+  },
+  {
+    "image_name": "15982.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15982.jpg"
+  },
+  {
+    "image_name": "6090.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6090.jpg"
+  },
+  {
+    "image_name": "15358.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15358.jpg"
+  },
+  {
+    "image_name": "7798.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7798.jpg"
+  },
+  {
+    "image_name": "7778.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7778.jpg"
+  },
+  {
+    "image_name": "12020.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12020.jpg"
+  },
+  {
+    "image_name": "14040.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14040.jpg"
+  },
+  {
+    "image_name": "5572.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5572.jpg"
+  },
+  {
+    "image_name": "15363.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15363.jpg"
+  },
+  {
+    "image_name": "16770.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16770.jpg"
+  },
+  {
+    "image_name": "4905.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4905.jpg"
+  },
+  {
+    "image_name": "10741.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10741.jpg"
+  },
+  {
+    "image_name": "7790.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7790.jpg"
+  },
+  {
+    "image_name": "10825.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10825.jpg"
+  },
+  {
+    "image_name": "12018.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12018.jpg"
+  },
+  {
+    "image_name": "9238.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9238.jpg"
+  },
+  {
+    "image_name": "8652.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8652.jpg"
+  },
+  {
+    "image_name": "4017.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4017.jpg"
+  },
+  {
+    "image_name": "13988.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13988.jpg"
+  },
+  {
+    "image_name": "9843.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9843.jpg"
+  },
+  {
+    "image_name": "9854.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9854.jpg"
+  },
+  {
+    "image_name": "3004.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3004.jpg"
+  },
+  {
+    "image_name": "15409.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15409.jpg"
+  },
+  {
+    "image_name": "11609.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11609.jpg"
+  },
+  {
+    "image_name": "10437.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10437.jpg"
+  },
+  {
+    "image_name": "12572.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12572.jpg"
+  },
+  {
+    "image_name": "10431.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10431.jpg"
+  },
+  {
+    "image_name": "7769.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7769.jpg"
+  },
+  {
+    "image_name": "15368.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15368.jpg"
+  },
+  {
+    "image_name": "7782.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7782.jpg"
+  },
+  {
+    "image_name": "7806.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7806.jpg"
+  },
+  {
+    "image_name": "2058.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2058.jpg"
+  },
+  {
+    "image_name": "6073.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6073.jpg"
+  },
+  {
+    "image_name": "11249.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11249.jpg"
+  },
+  {
+    "image_name": "7183.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7183.jpg"
+  },
+  {
+    "image_name": "15393.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15393.jpg"
+  },
+  {
+    "image_name": "16772.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16772.jpg"
+  },
+  {
+    "image_name": "9271.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9271.jpg"
+  },
+  {
+    "image_name": "10795.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10795.jpg"
+  },
+  {
+    "image_name": "10835.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10835.jpg"
+  },
+  {
+    "image_name": "16749.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16749.jpg"
+  },
+  {
+    "image_name": "10833.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10833.jpg"
+  },
+  {
+    "image_name": "6644.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6644.jpg"
+  },
+  {
+    "image_name": "12571.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12571.jpg"
+  },
+  {
+    "image_name": "10418.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10418.jpg"
+  },
+  {
+    "image_name": "10751.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10751.jpg"
+  },
+  {
+    "image_name": "14065.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14065.jpg"
+  },
+  {
+    "image_name": "9234.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9234.jpg"
+  },
+  {
+    "image_name": "4484.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4484.jpg"
+  },
+  {
+    "image_name": "10770.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10770.jpg"
+  },
+  {
+    "image_name": "628.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/628.jpg"
+  },
+  {
+    "image_name": "7749.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7749.jpg"
+  },
+  {
+    "image_name": "13987.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13987.jpg"
+  },
+  {
+    "image_name": "4031.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4031.jpg"
+  },
+  {
+    "image_name": "15338.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15338.jpg"
+  },
+  {
+    "image_name": "4485.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4485.jpg"
+  },
+  {
+    "image_name": "3653.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3653.jpg"
+  },
+  {
+    "image_name": "6652.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6652.jpg"
+  },
+  {
+    "image_name": "6674.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6674.jpg"
+  },
+  {
+    "image_name": "16206.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16206.jpg"
+  },
+  {
+    "image_name": "4441.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4441.jpg"
+  },
+  {
+    "image_name": "12039.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12039.jpg"
+  },
+  {
+    "image_name": "10438.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10438.jpg"
+  },
+  {
+    "image_name": "14057.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14057.jpg"
+  },
+  {
+    "image_name": "8660.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8660.jpg"
+  },
+  {
+    "image_name": "6688.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6688.jpg"
+  },
+  {
+    "image_name": "3075.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3075.jpg"
+  },
+  {
+    "image_name": "7791.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7791.jpg"
+  },
+  {
+    "image_name": "2035.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2035.jpg"
+  },
+  {
+    "image_name": "85.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/85.jpg"
+  },
+  {
+    "image_name": "7776.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7776.jpg"
+  },
+  {
+    "image_name": "3515.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3515.jpg"
+  },
+  {
+    "image_name": "6662.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6662.jpg"
+  },
+  {
+    "image_name": "10765.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10765.jpg"
+  },
+  {
+    "image_name": "10766.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10766.jpg"
+  },
+  {
+    "image_name": "14008.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14008.jpg"
+  },
+  {
+    "image_name": "11618.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11618.jpg"
+  },
+  {
+    "image_name": "16764.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16764.jpg"
+  },
+  {
+    "image_name": "637.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/637.jpg"
+  },
+  {
+    "image_name": "1835.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1835.jpg"
+  },
+  {
+    "image_name": "9260.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9260.jpg"
+  },
+  {
+    "image_name": "6081.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6081.jpg"
+  },
+  {
+    "image_name": "7177.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7177.jpg"
+  },
+  {
+    "image_name": "10778.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10778.jpg"
+  },
+  {
+    "image_name": "11601.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11601.jpg"
+  },
+  {
+    "image_name": "1663.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1663.jpg"
+  },
+  {
+    "image_name": "1230.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1230.jpg"
+  },
+  {
+    "image_name": "11616.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11616.jpg"
+  },
+  {
+    "image_name": "8633.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8633.jpg"
+  },
+  {
+    "image_name": "10453.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10453.jpg"
+  },
+  {
+    "image_name": "4882.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4882.jpg"
+  },
+  {
+    "image_name": "6095.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6095.jpg"
+  },
+  {
+    "image_name": "2211.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2211.jpg"
+  },
+  {
+    "image_name": "15345.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15345.jpg"
+  },
+  {
+    "image_name": "10797.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10797.jpg"
+  },
+  {
+    "image_name": "8659.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8659.jpg"
+  },
+  {
+    "image_name": "13985.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13985.jpg"
+  },
+  {
+    "image_name": "15375.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15375.jpg"
+  },
+  {
+    "image_name": "6645.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6645.jpg"
+  },
+  {
+    "image_name": "6067.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6067.jpg"
+  },
+  {
+    "image_name": "5257.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5257.jpg"
+  },
+  {
+    "image_name": "13920.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13920.jpg"
+  },
+  {
+    "image_name": "9855.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9855.jpg"
+  },
+  {
+    "image_name": "14086.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14086.jpg"
+  },
+  {
+    "image_name": "4239.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4239.jpg"
+  },
+  {
+    "image_name": "9827.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9827.jpg"
+  },
+  {
+    "image_name": "10454.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10454.jpg"
+  },
+  {
+    "image_name": "2077.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2077.jpg"
+  },
+  {
+    "image_name": "13997.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13997.jpg"
+  },
+  {
+    "image_name": "5558.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5558.jpg"
+  },
+  {
+    "image_name": "3721.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3721.jpg"
+  },
+  {
+    "image_name": "537.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/537.jpg"
+  },
+  {
+    "image_name": "14006.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14006.jpg"
+  },
+  {
+    "image_name": "3508.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3508.jpg"
+  },
+  {
+    "image_name": "4891.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4891.jpg"
+  },
+  {
+    "image_name": "14081.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14081.jpg"
+  },
+  {
+    "image_name": "13949.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13949.jpg"
+  },
+  {
+    "image_name": "1479.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1479.jpg"
+  },
+  {
+    "image_name": "7773.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7773.jpg"
+  },
+  {
+    "image_name": "15347.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15347.jpg"
+  },
+  {
+    "image_name": "4896.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4896.jpg"
+  },
+  {
+    "image_name": "12025.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12025.jpg"
+  },
+  {
+    "image_name": "10808.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10808.jpg"
+  },
+  {
+    "image_name": "3473.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3473.jpg"
+  },
+  {
+    "image_name": "4877.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4877.jpg"
+  },
+  {
+    "image_name": "7187.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7187.jpg"
+  },
+  {
+    "image_name": "11606.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11606.jpg"
+  },
+  {
+    "image_name": "2782.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2782.jpg"
+  },
+  {
+    "image_name": "2160.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2160.jpg"
+  },
+  {
+    "image_name": "14005.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14005.jpg"
+  },
+  {
+    "image_name": "7802.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7802.jpg"
+  },
+  {
+    "image_name": "10792.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10792.jpg"
+  },
+  {
+    "image_name": "15340.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15340.jpg"
+  },
+  {
+    "image_name": "2286.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2286.jpg"
+  },
+  {
+    "image_name": "5568.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5568.jpg"
+  },
+  {
+    "image_name": "10463.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10463.jpg"
+  },
+  {
+    "image_name": "12011.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12011.jpg"
+  },
+  {
+    "image_name": "1908.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1908.jpg"
+  },
+  {
+    "image_name": "4238.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4238.jpg"
+  },
+  {
+    "image_name": "11594.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11594.jpg"
+  },
+  {
+    "image_name": "15342.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15342.jpg"
+  },
+  {
+    "image_name": "1771.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1771.jpg"
+  },
+  {
+    "image_name": "3497.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3497.jpg"
+  },
+  {
+    "image_name": "6661.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6661.jpg"
+  },
+  {
+    "image_name": "13989.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13989.jpg"
+  },
+  {
+    "image_name": "2718.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2718.jpg"
+  },
+  {
+    "image_name": "10435.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10435.jpg"
+  },
+  {
+    "image_name": "3518.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3518.jpg"
+  },
+  {
+    "image_name": "12010.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12010.jpg"
+  },
+  {
+    "image_name": "9245.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9245.jpg"
+  },
+  {
+    "image_name": "9846.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9846.jpg"
+  },
+  {
+    "image_name": "15366.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15366.jpg"
+  },
+  {
+    "image_name": "15386.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15386.jpg"
+  },
+  {
+    "image_name": "4436.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4436.jpg"
+  },
+  {
+    "image_name": "595.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/595.jpg"
+  },
+  {
+    "image_name": "10755.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10755.jpg"
+  },
+  {
+    "image_name": "6066.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6066.jpg"
+  },
+  {
+    "image_name": "15394.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15394.jpg"
+  },
+  {
+    "image_name": "3287.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3287.jpg"
+  },
+  {
+    "image_name": "14073.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14073.jpg"
+  },
+  {
+    "image_name": "10804.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10804.jpg"
+  },
+  {
+    "image_name": "15413.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15413.jpg"
+  },
+  {
+    "image_name": "9264.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9264.jpg"
+  },
+  {
+    "image_name": "11612.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11612.jpg"
+  },
+  {
+    "image_name": "7766.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7766.jpg"
+  },
+  {
+    "image_name": "13973.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13973.jpg"
+  },
+  {
+    "image_name": "7758.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7758.jpg"
+  },
+  {
+    "image_name": "5552.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5552.jpg"
+  },
+  {
+    "image_name": "7185.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7185.jpg"
+  },
+  {
+    "image_name": "10416.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10416.jpg"
+  },
+  {
+    "image_name": "3496.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3496.jpg"
+  },
+  {
+    "image_name": "14023.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14023.jpg"
+  },
+  {
+    "image_name": "4923.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4923.jpg"
+  },
+  {
+    "image_name": "9252.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9252.jpg"
+  },
+  {
+    "image_name": "310.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/310.jpg"
+  },
+  {
+    "image_name": "11582.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11582.jpg"
+  },
+  {
+    "image_name": "6651.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6651.jpg"
+  },
+  {
+    "image_name": "3479.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3479.jpg"
+  },
+  {
+    "image_name": "15405.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15405.jpg"
+  },
+  {
+    "image_name": "14076.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14076.jpg"
+  },
+  {
+    "image_name": "13978.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13978.jpg"
+  },
+  {
+    "image_name": "15339.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15339.jpg"
+  },
+  {
+    "image_name": "4893.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4893.jpg"
+  },
+  {
+    "image_name": "14064.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14064.jpg"
+  },
+  {
+    "image_name": "7797.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7797.jpg"
+  },
+  {
+    "image_name": "13943.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13943.jpg"
+  },
+  {
+    "image_name": "2754.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2754.jpg"
+  },
+  {
+    "image_name": "12016.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12016.jpg"
+  },
+  {
+    "image_name": "3469.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3469.jpg"
+  },
+  {
+    "image_name": "10772.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10772.jpg"
+  },
+  {
+    "image_name": "9828.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9828.jpg"
+  },
+  {
+    "image_name": "984.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/984.jpg"
+  },
+  {
+    "image_name": "3257.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3257.jpg"
+  },
+  {
+    "image_name": "10422.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10422.jpg"
+  },
+  {
+    "image_name": "14025.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14025.jpg"
+  },
+  {
+    "image_name": "13939.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13939.jpg"
+  },
+  {
+    "image_name": "3512.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3512.jpg"
+  },
+  {
+    "image_name": "14052.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14052.jpg"
+  },
+  {
+    "image_name": "11623.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11623.jpg"
+  },
+  {
+    "image_name": "13977.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13977.jpg"
+  },
+  {
+    "image_name": "9230.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9230.jpg"
+  },
+  {
+    "image_name": "5569.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5569.jpg"
+  },
+  {
+    "image_name": "16766.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16766.jpg"
+  },
+  {
+    "image_name": "2234.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2234.jpg"
+  },
+  {
+    "image_name": "13975.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13975.jpg"
+  },
+  {
+    "image_name": "4870.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4870.jpg"
+  },
+  {
+    "image_name": "16739.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16739.jpg"
+  },
+  {
+    "image_name": "4880.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4880.jpg"
+  },
+  {
+    "image_name": "11580.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11580.jpg"
+  },
+  {
+    "image_name": "3504.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3504.jpg"
+  },
+  {
+    "image_name": "7789.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7789.jpg"
+  },
+  {
+    "image_name": "8629.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8629.jpg"
+  },
+  {
+    "image_name": "6647.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6647.jpg"
+  },
+  {
+    "image_name": "16767.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16767.jpg"
+  },
+  {
+    "image_name": "15391.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15391.jpg"
+  },
+  {
+    "image_name": "14070.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14070.jpg"
+  },
+  {
+    "image_name": "1240.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1240.jpg"
+  },
+  {
+    "image_name": "6080.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6080.jpg"
+  },
+  {
+    "image_name": "6697.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6697.jpg"
+  },
+  {
+    "image_name": "14041.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14041.jpg"
+  },
+  {
+    "image_name": "11603.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11603.jpg"
+  },
+  {
+    "image_name": "8642.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8642.jpg"
+  },
+  {
+    "image_name": "7209.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7209.jpg"
+  },
+  {
+    "image_name": "1911.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1911.jpg"
+  },
+  {
+    "image_name": "2690.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2690.jpg"
+  },
+  {
+    "image_name": "6679.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6679.jpg"
+  },
+  {
+    "image_name": "5550.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5550.jpg"
+  },
+  {
+    "image_name": "16786.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16786.jpg"
+  },
+  {
+    "image_name": "12033.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12033.jpg"
+  },
+  {
+    "image_name": "11253.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11253.jpg"
+  },
+  {
+    "image_name": "7754.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7754.jpg"
+  },
+  {
+    "image_name": "13974.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13974.jpg"
+  },
+  {
+    "image_name": "7205.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7205.jpg"
+  },
+  {
+    "image_name": "5551.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5551.jpg"
+  },
+  {
+    "image_name": "11584.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11584.jpg"
+  },
+  {
+    "image_name": "4241.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4241.jpg"
+  },
+  {
+    "image_name": "12580.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12580.jpg"
+  },
+  {
+    "image_name": "12584.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12584.jpg"
+  },
+  {
+    "image_name": "4871.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4871.jpg"
+  },
+  {
+    "image_name": "7756.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7756.jpg"
+  },
+  {
+    "image_name": "8656.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8656.jpg"
+  },
+  {
+    "image_name": "6665.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6665.jpg"
+  },
+  {
+    "image_name": "6097.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6097.jpg"
+  },
+  {
+    "image_name": "7750.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7750.jpg"
+  },
+  {
+    "image_name": "1793.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1793.jpg"
+  },
+  {
+    "image_name": "3189.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3189.jpg"
+  },
+  {
+    "image_name": "15390.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15390.jpg"
+  },
+  {
+    "image_name": "10780.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10780.jpg"
+  },
+  {
+    "image_name": "1036.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1036.jpg"
+  },
+  {
+    "image_name": "13932.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13932.jpg"
+  },
+  {
+    "image_name": "6082.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6082.jpg"
+  },
+  {
+    "image_name": "10834.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10834.jpg"
+  },
+  {
+    "image_name": "10762.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10762.jpg"
+  },
+  {
+    "image_name": "16761.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16761.jpg"
+  },
+  {
+    "image_name": "8654.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8654.jpg"
+  },
+  {
+    "image_name": "6642.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6642.jpg"
+  },
+  {
+    "image_name": "8649.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8649.jpg"
+  },
+  {
+    "image_name": "12028.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12028.jpg"
+  },
+  {
+    "image_name": "6678.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6678.jpg"
+  },
+  {
+    "image_name": "2507.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2507.jpg"
+  },
+  {
+    "image_name": "4027.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4027.jpg"
+  },
+  {
+    "image_name": "12014.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12014.jpg"
+  },
+  {
+    "image_name": "3522.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3522.jpg"
+  },
+  {
+    "image_name": "1129.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1129.jpg"
+  },
+  {
+    "image_name": "14062.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14062.jpg"
+  },
+  {
+    "image_name": "7202.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7202.jpg"
+  },
+  {
+    "image_name": "12563.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12563.jpg"
+  },
+  {
+    "image_name": "1774.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1774.jpg"
+  },
+  {
+    "image_name": "824.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/824.jpg"
+  },
+  {
+    "image_name": "6680.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6680.jpg"
+  },
+  {
+    "image_name": "4915.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4915.jpg"
+  },
+  {
+    "image_name": "6682.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6682.jpg"
+  },
+  {
+    "image_name": "5570.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5570.jpg"
+  },
+  {
+    "image_name": "4025.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4025.jpg"
+  },
+  {
+    "image_name": "10447.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10447.jpg"
+  },
+  {
+    "image_name": "9856.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9856.jpg"
+  },
+  {
+    "image_name": "15350.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15350.jpg"
+  },
+  {
+    "image_name": "7193.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7193.jpg"
+  },
+  {
+    "image_name": "3472.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3472.jpg"
+  },
+  {
+    "image_name": "13944.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13944.jpg"
+  },
+  {
+    "image_name": "16785.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16785.jpg"
+  },
+  {
+    "image_name": "10818.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10818.jpg"
+  },
+  {
+    "image_name": "10440.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10440.jpg"
+  },
+  {
+    "image_name": "172.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/172.jpg"
+  },
+  {
+    "image_name": "8644.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8644.jpg"
+  },
+  {
+    "image_name": "13956.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13956.jpg"
+  },
+  {
+    "image_name": "14002.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14002.jpg"
+  },
+  {
+    "image_name": "7794.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7794.jpg"
+  },
+  {
+    "image_name": "10744.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10744.jpg"
+  },
+  {
+    "image_name": "11589.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11589.jpg"
+  },
+  {
+    "image_name": "10456.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10456.jpg"
+  },
+  {
+    "image_name": "4916.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4916.jpg"
+  },
+  {
+    "image_name": "1845.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1845.jpg"
+  },
+  {
+    "image_name": "10821.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10821.jpg"
+  },
+  {
+    "image_name": "6670.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6670.jpg"
+  },
+  {
+    "image_name": "3658.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3658.jpg"
+  },
+  {
+    "image_name": "5313.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5313.jpg"
+  },
+  {
+    "image_name": "13966.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13966.jpg"
+  },
+  {
+    "image_name": "9235.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9235.jpg"
+  },
+  {
+    "image_name": "10771.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10771.jpg"
+  },
+  {
+    "image_name": "7748.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7748.jpg"
+  },
+  {
+    "image_name": "16778.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16778.jpg"
+  },
+  {
+    "image_name": "10748.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10748.jpg"
+  },
+  {
+    "image_name": "8637.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8637.jpg"
+  },
+  {
+    "image_name": "8632.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8632.jpg"
+  },
+  {
+    "image_name": "3328.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3328.jpg"
+  },
+  {
+    "image_name": "16193.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16193.jpg"
+  },
+  {
+    "image_name": "1724.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1724.jpg"
+  },
+  {
+    "image_name": "9832.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9832.jpg"
+  },
+  {
+    "image_name": "10779.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10779.jpg"
+  },
+  {
+    "image_name": "7212.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7212.jpg"
+  },
+  {
+    "image_name": "5149.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5149.jpg"
+  },
+  {
+    "image_name": "1073.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1073.jpg"
+  },
+  {
+    "image_name": "187.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/187.jpg"
+  },
+  {
+    "image_name": "7173.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7173.jpg"
+  },
+  {
+    "image_name": "13935.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13935.jpg"
+  },
+  {
+    "image_name": "6072.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6072.jpg"
+  },
+  {
+    "image_name": "4911.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4911.jpg"
+  },
+  {
+    "image_name": "7194.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7194.jpg"
+  },
+  {
+    "image_name": "15370.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15370.jpg"
+  },
+  {
+    "image_name": "10460.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10460.jpg"
+  },
+  {
+    "image_name": "3503.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3503.jpg"
+  },
+  {
+    "image_name": "8634.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8634.jpg"
+  },
+  {
+    "image_name": "10803.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10803.jpg"
+  },
+  {
+    "image_name": "15352.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15352.jpg"
+  },
+  {
+    "image_name": "15348.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15348.jpg"
+  },
+  {
+    "image_name": "4018.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4018.jpg"
+  },
+  {
+    "image_name": "13912.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13912.jpg"
+  },
+  {
+    "image_name": "7197.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7197.jpg"
+  },
+  {
+    "image_name": "5567.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5567.jpg"
+  },
+  {
+    "image_name": "5147.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5147.jpg"
+  },
+  {
+    "image_name": "2488.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2488.jpg"
+  },
+  {
+    "image_name": "6700.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6700.jpg"
+  },
+  {
+    "image_name": "4907.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4907.jpg"
+  },
+  {
+    "image_name": "10757.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10757.jpg"
+  },
+  {
+    "image_name": "15411.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15411.jpg"
+  },
+  {
+    "image_name": "13907.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13907.jpg"
+  },
+  {
+    "image_name": "13971.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13971.jpg"
+  },
+  {
+    "image_name": "10458.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10458.jpg"
+  },
+  {
+    "image_name": "1786.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1786.jpg"
+  },
+  {
+    "image_name": "10785.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10785.jpg"
+  },
+  {
+    "image_name": "16740.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16740.jpg"
+  },
+  {
+    "image_name": "4913.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4913.jpg"
+  },
+  {
+    "image_name": "6065.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6065.jpg"
+  },
+  {
+    "image_name": "9232.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9232.jpg"
+  },
+  {
+    "image_name": "550.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/550.jpg"
+  },
+  {
+    "image_name": "16205.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16205.jpg"
+  },
+  {
+    "image_name": "4240.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4240.jpg"
+  },
+  {
+    "image_name": "12554.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12554.jpg"
+  },
+  {
+    "image_name": "4486.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4486.jpg"
+  },
+  {
+    "image_name": "1471.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1471.jpg"
+  },
+  {
+    "image_name": "3514.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3514.jpg"
+  },
+  {
+    "image_name": "14020.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14020.jpg"
+  },
+  {
+    "image_name": "9263.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9263.jpg"
+  },
+  {
+    "image_name": "669.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/669.jpg"
+  },
+  {
+    "image_name": "14030.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14030.jpg"
+  },
+  {
+    "image_name": "9229.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9229.jpg"
+  },
+  {
+    "image_name": "4873.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4873.jpg"
+  },
+  {
+    "image_name": "15403.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15403.jpg"
+  },
+  {
+    "image_name": "13911.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13911.jpg"
+  },
+  {
+    "image_name": "9844.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9844.jpg"
+  },
+  {
+    "image_name": "8630.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8630.jpg"
+  },
+  {
+    "image_name": "7803.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7803.jpg"
+  },
+  {
+    "image_name": "16769.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16769.jpg"
+  },
+  {
+    "image_name": "6671.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6671.jpg"
+  },
+  {
+    "image_name": "9850.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9850.jpg"
+  },
+  {
+    "image_name": "4914.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4914.jpg"
+  },
+  {
+    "image_name": "4865.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4865.jpg"
+  },
+  {
+    "image_name": "6690.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6690.jpg"
+  },
+  {
+    "image_name": "4887.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4887.jpg"
+  },
+  {
+    "image_name": "1931.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1931.jpg"
+  },
+  {
+    "image_name": "1871.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1871.jpg"
+  },
+  {
+    "image_name": "6677.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6677.jpg"
+  },
+  {
+    "image_name": "10826.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10826.jpg"
+  },
+  {
+    "image_name": "9841.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9841.jpg"
+  },
+  {
+    "image_name": "9259.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9259.jpg"
+  },
+  {
+    "image_name": "2276.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2276.jpg"
+  },
+  {
+    "image_name": "7786.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7786.jpg"
+  },
+  {
+    "image_name": "6653.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6653.jpg"
+  },
+  {
+    "image_name": "7759.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7759.jpg"
+  },
+  {
+    "image_name": "9265.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9265.jpg"
+  },
+  {
+    "image_name": "6668.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6668.jpg"
+  },
+  {
+    "image_name": "15367.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15367.jpg"
+  },
+  {
+    "image_name": "8623.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8623.jpg"
+  },
+  {
+    "image_name": "10439.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10439.jpg"
+  },
+  {
+    "image_name": "6078.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6078.jpg"
+  },
+  {
+    "image_name": "12012.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12012.jpg"
+  },
+  {
+    "image_name": "12015.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12015.jpg"
+  },
+  {
+    "image_name": "15402.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15402.jpg"
+  },
+  {
+    "image_name": "9826.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9826.jpg"
+  },
+  {
+    "image_name": "7747.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7747.jpg"
+  },
+  {
+    "image_name": "7772.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7772.jpg"
+  },
+  {
+    "image_name": "4921.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4921.jpg"
+  },
+  {
+    "image_name": "6673.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6673.jpg"
+  },
+  {
+    "image_name": "10449.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10449.jpg"
+  },
+  {
+    "image_name": "12029.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12029.jpg"
+  },
+  {
+    "image_name": "14059.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14059.jpg"
+  },
+  {
+    "image_name": "12595.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12595.jpg"
+  },
+  {
+    "image_name": "5574.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5574.jpg"
+  },
+  {
+    "image_name": "6064.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6064.jpg"
+  },
+  {
+    "image_name": "8670.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8670.jpg"
+  },
+  {
+    "image_name": "6089.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6089.jpg"
+  },
+  {
+    "image_name": "10420.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10420.jpg"
+  },
+  {
+    "image_name": "14051.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14051.jpg"
+  },
+  {
+    "image_name": "10434.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10434.jpg"
+  },
+  {
+    "image_name": "4439.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4439.jpg"
+  },
+  {
+    "image_name": "15369.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15369.jpg"
+  },
+  {
+    "image_name": "7781.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7781.jpg"
+  },
+  {
+    "image_name": "15346.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15346.jpg"
+  },
+  {
+    "image_name": "10822.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10822.jpg"
+  },
+  {
+    "image_name": "9840.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9840.jpg"
+  },
+  {
+    "image_name": "10789.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10789.jpg"
+  },
+  {
+    "image_name": "2759.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2759.jpg"
+  },
+  {
+    "image_name": "11587.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11587.jpg"
+  },
+  {
+    "image_name": "9268.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9268.jpg"
+  },
+  {
+    "image_name": "13922.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13922.jpg"
+  },
+  {
+    "image_name": "2453.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2453.jpg"
+  },
+  {
+    "image_name": "3387.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3387.jpg"
+  },
+  {
+    "image_name": "16787.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16787.jpg"
+  },
+  {
+    "image_name": "9823.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9823.jpg"
+  },
+  {
+    "image_name": "7765.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7765.jpg"
+  },
+  {
+    "image_name": "4918.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4918.jpg"
+  },
+  {
+    "image_name": "15353.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15353.jpg"
+  },
+  {
+    "image_name": "8671.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8671.jpg"
+  },
+  {
+    "image_name": "10817.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10817.jpg"
+  },
+  {
+    "image_name": "6091.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6091.jpg"
+  },
+  {
+    "image_name": "5314.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5314.jpg"
+  },
+  {
+    "image_name": "14061.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14061.jpg"
+  },
+  {
+    "image_name": "11233.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11233.jpg"
+  },
+  {
+    "image_name": "13947.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13947.jpg"
+  },
+  {
+    "image_name": "15385.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15385.jpg"
+  },
+  {
+    "image_name": "6094.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6094.jpg"
+  },
+  {
+    "image_name": "12040.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12040.jpg"
+  },
+  {
+    "image_name": "655.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/655.jpg"
+  },
+  {
+    "image_name": "3498.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3498.jpg"
+  },
+  {
+    "image_name": "8620.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8620.jpg"
+  },
+  {
+    "image_name": "15975.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15975.jpg"
+  },
+  {
+    "image_name": "792.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/792.jpg"
+  },
+  {
+    "image_name": "13986.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13986.jpg"
+  },
+  {
+    "image_name": "10819.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10819.jpg"
+  },
+  {
+    "image_name": "16774.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16774.jpg"
+  },
+  {
+    "image_name": "4886.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4886.jpg"
+  },
+  {
+    "image_name": "5546.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5546.jpg"
+  },
+  {
+    "image_name": "16758.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16758.jpg"
+  },
+  {
+    "image_name": "5150.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5150.jpg"
+  },
+  {
+    "image_name": "1436.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1436.jpg"
+  },
+  {
+    "image_name": "6061.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6061.jpg"
+  },
+  {
+    "image_name": "9253.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9253.jpg"
+  },
+  {
+    "image_name": "7182.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7182.jpg"
+  },
+  {
+    "image_name": "5557.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5557.jpg"
+  },
+  {
+    "image_name": "10462.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10462.jpg"
+  },
+  {
+    "image_name": "15341.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15341.jpg"
+  },
+  {
+    "image_name": "16196.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16196.jpg"
+  },
+  {
+    "image_name": "3511.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3511.jpg"
+  },
+  {
+    "image_name": "3466.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3466.jpg"
+  },
+  {
+    "image_name": "9237.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9237.jpg"
+  },
+  {
+    "image_name": "10759.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10759.jpg"
+  },
+  {
+    "image_name": "10827.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10827.jpg"
+  },
+  {
+    "image_name": "9273.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9273.jpg"
+  },
+  {
+    "image_name": "12017.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12017.jpg"
+  },
+  {
+    "image_name": "12567.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12567.jpg"
+  },
+  {
+    "image_name": "14047.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14047.jpg"
+  },
+  {
+    "image_name": "3509.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3509.jpg"
+  },
+  {
+    "image_name": "6667.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6667.jpg"
+  },
+  {
+    "image_name": "14033.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14033.jpg"
+  },
+  {
+    "image_name": "622.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/622.jpg"
+  },
+  {
+    "image_name": "9858.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9858.jpg"
+  },
+  {
+    "image_name": "10427.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10427.jpg"
+  },
+  {
+    "image_name": "868.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/868.jpg"
+  },
+  {
+    "image_name": "12573.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12573.jpg"
+  },
+  {
+    "image_name": "13934.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13934.jpg"
+  },
+  {
+    "image_name": "9837.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9837.jpg"
+  },
+  {
+    "image_name": "3494.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3494.jpg"
+  },
+  {
+    "image_name": "8674.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8674.jpg"
+  },
+  {
+    "image_name": "12594.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12594.jpg"
+  },
+  {
+    "image_name": "3483.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3483.jpg"
+  },
+  {
+    "image_name": "1765.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1765.jpg"
+  },
+  {
+    "image_name": "4037.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4037.jpg"
+  },
+  {
+    "image_name": "12021.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12021.jpg"
+  },
+  {
+    "image_name": "6669.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6669.jpg"
+  },
+  {
+    "image_name": "15979.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15979.jpg"
+  },
+  {
+    "image_name": "16075.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16075.jpg"
+  },
+  {
+    "image_name": "15383.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15383.jpg"
+  },
+  {
+    "image_name": "11608.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11608.jpg"
+  },
+  {
+    "image_name": "1869.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1869.jpg"
+  },
+  {
+    "image_name": "12023.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12023.jpg"
+  },
+  {
+    "image_name": "15362.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15362.jpg"
+  },
+  {
+    "image_name": "1824.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1824.jpg"
+  },
+  {
+    "image_name": "16745.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16745.jpg"
+  },
+  {
+    "image_name": "4902.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4902.jpg"
+  },
+  {
+    "image_name": "15364.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15364.jpg"
+  },
+  {
+    "image_name": "16756.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16756.jpg"
+  },
+  {
+    "image_name": "4438.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4438.jpg"
+  },
+  {
+    "image_name": "6087.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6087.jpg"
+  },
+  {
+    "image_name": "4898.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4898.jpg"
+  },
+  {
+    "image_name": "3001.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3001.jpg"
+  },
+  {
+    "image_name": "16199.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16199.jpg"
+  },
+  {
+    "image_name": "16203.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16203.jpg"
+  },
+  {
+    "image_name": "2905.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2905.jpg"
+  },
+  {
+    "image_name": "4020.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4020.jpg"
+  },
+  {
+    "image_name": "15980.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15980.jpg"
+  },
+  {
+    "image_name": "1661.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1661.jpg"
+  },
+  {
+    "image_name": "15971.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15971.jpg"
+  },
+  {
+    "image_name": "3513.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3513.jpg"
+  },
+  {
+    "image_name": "10781.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10781.jpg"
+  },
+  {
+    "image_name": "15415.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15415.jpg"
+  },
+  {
+    "image_name": "4924.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4924.jpg"
+  },
+  {
+    "image_name": "15387.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15387.jpg"
+  },
+  {
+    "image_name": "2885.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2885.jpg"
+  },
+  {
+    "image_name": "10828.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10828.jpg"
+  },
+  {
+    "image_name": "10811.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10811.jpg"
+  },
+  {
+    "image_name": "10743.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10743.jpg"
+  },
+  {
+    "image_name": "13993.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13993.jpg"
+  },
+  {
+    "image_name": "12559.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12559.jpg"
+  },
+  {
+    "image_name": "4917.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4917.jpg"
+  },
+  {
+    "image_name": "16759.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16759.jpg"
+  },
+  {
+    "image_name": "7800.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7800.jpg"
+  },
+  {
+    "image_name": "2185.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2185.jpg"
+  },
+  {
+    "image_name": "4895.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4895.jpg"
+  },
+  {
+    "image_name": "5311.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5311.jpg"
+  },
+  {
+    "image_name": "12569.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12569.jpg"
+  },
+  {
+    "image_name": "9852.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9852.jpg"
+  },
+  {
+    "image_name": "5564.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5564.jpg"
+  },
+  {
+    "image_name": "518.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/518.jpg"
+  },
+  {
+    "image_name": "1096.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1096.jpg"
+  },
+  {
+    "image_name": "15389.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15389.jpg"
+  },
+  {
+    "image_name": "10777.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10777.jpg"
+  },
+  {
+    "image_name": "15398.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15398.jpg"
+  },
+  {
+    "image_name": "6058.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6058.jpg"
+  },
+  {
+    "image_name": "10746.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10746.jpg"
+  },
+  {
+    "image_name": "14014.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14014.jpg"
+  },
+  {
+    "image_name": "351.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/351.jpg"
+  },
+  {
+    "image_name": "9242.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9242.jpg"
+  },
+  {
+    "image_name": "13951.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13951.jpg"
+  },
+  {
+    "image_name": "4888.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4888.jpg"
+  },
+  {
+    "image_name": "6657.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6657.jpg"
+  },
+  {
+    "image_name": "3070.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3070.jpg"
+  },
+  {
+    "image_name": "3485.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3485.jpg"
+  },
+  {
+    "image_name": "2231.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2231.jpg"
+  },
+  {
+    "image_name": "3078.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3078.jpg"
+  },
+  {
+    "image_name": "11605.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11605.jpg"
+  },
+  {
+    "image_name": "15361.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15361.jpg"
+  },
+  {
+    "image_name": "5561.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5561.jpg"
+  },
+  {
+    "image_name": "4884.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4884.jpg"
+  },
+  {
+    "image_name": "8117.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8117.jpg"
+  },
+  {
+    "image_name": "16195.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16195.jpg"
+  },
+  {
+    "image_name": "4442.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4442.jpg"
+  },
+  {
+    "image_name": "5151.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5151.jpg"
+  },
+  {
+    "image_name": "14068.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14068.jpg"
+  },
+  {
+    "image_name": "1283.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1283.jpg"
+  },
+  {
+    "image_name": "13925.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13925.jpg"
+  },
+  {
+    "image_name": "11247.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11247.jpg"
+  },
+  {
+    "image_name": "10793.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10793.jpg"
+  },
+  {
+    "image_name": "9842.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9842.jpg"
+  },
+  {
+    "image_name": "13938.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13938.jpg"
+  },
+  {
+    "image_name": "9834.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9834.jpg"
+  },
+  {
+    "image_name": "14072.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14072.jpg"
+  },
+  {
+    "image_name": "4440.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4440.jpg"
+  },
+  {
+    "image_name": "11581.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11581.jpg"
+  },
+  {
+    "image_name": "9243.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9243.jpg"
+  },
+  {
+    "image_name": "2060.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2060.jpg"
+  },
+  {
+    "image_name": "13994.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13994.jpg"
+  },
+  {
+    "image_name": "10791.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10791.jpg"
+  },
+  {
+    "image_name": "9231.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9231.jpg"
+  },
+  {
+    "image_name": "13954.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13954.jpg"
+  },
+  {
+    "image_name": "10457.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10457.jpg"
+  },
+  {
+    "image_name": "5576.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5576.jpg"
+  },
+  {
+    "image_name": "14050.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14050.jpg"
+  },
+  {
+    "image_name": "1018.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1018.jpg"
+  },
+  {
+    "image_name": "6076.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6076.jpg"
+  },
+  {
+    "image_name": "6086.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6086.jpg"
+  },
+  {
+    "image_name": "9824.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9824.jpg"
+  },
+  {
+    "image_name": "13952.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13952.jpg"
+  },
+  {
+    "image_name": "3372.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3372.jpg"
+  },
+  {
+    "image_name": "7784.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7784.jpg"
+  },
+  {
+    "image_name": "10423.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10423.jpg"
+  },
+  {
+    "image_name": "13917.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13917.jpg"
+  },
+  {
+    "image_name": "3481.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3481.jpg"
+  },
+  {
+    "image_name": "8119.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8119.jpg"
+  },
+  {
+    "image_name": "9839.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9839.jpg"
+  },
+  {
+    "image_name": "5312.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5312.jpg"
+  },
+  {
+    "image_name": "2684.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2684.jpg"
+  },
+  {
+    "image_name": "4878.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4878.jpg"
+  },
+  {
+    "image_name": "6045.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6045.jpg"
+  },
+  {
+    "image_name": "4868.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4868.jpg"
+  },
+  {
+    "image_name": "14054.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14054.jpg"
+  },
+  {
+    "image_name": "9258.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9258.jpg"
+  },
+  {
+    "image_name": "830.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/830.jpg"
+  },
+  {
+    "image_name": "8655.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8655.jpg"
+  },
+  {
+    "image_name": "13983.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13983.jpg"
+  },
+  {
+    "image_name": "14036.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14036.jpg"
+  },
+  {
+    "image_name": "12019.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12019.jpg"
+  },
+  {
+    "image_name": "8638.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8638.jpg"
+  },
+  {
+    "image_name": "6060.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6060.jpg"
+  },
+  {
+    "image_name": "13964.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13964.jpg"
+  },
+  {
+    "image_name": "10798.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10798.jpg"
+  },
+  {
+    "image_name": "8650.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8650.jpg"
+  },
+  {
+    "image_name": "15399.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15399.jpg"
+  },
+  {
+    "image_name": "2070.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2070.jpg"
+  },
+  {
+    "image_name": "12007.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12007.jpg"
+  },
+  {
+    "image_name": "4894.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4894.jpg"
+  },
+  {
+    "image_name": "3520.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3520.jpg"
+  },
+  {
+    "image_name": "10830.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10830.jpg"
+  },
+  {
+    "image_name": "5559.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5559.jpg"
+  },
+  {
+    "image_name": "12570.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12570.jpg"
+  },
+  {
+    "image_name": "3255.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3255.jpg"
+  },
+  {
+    "image_name": "13967.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13967.jpg"
+  },
+  {
+    "image_name": "2241.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2241.jpg"
+  },
+  {
+    "image_name": "6676.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6676.jpg"
+  },
+  {
+    "image_name": "15372.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15372.jpg"
+  },
+  {
+    "image_name": "4874.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4874.jpg"
+  },
+  {
+    "image_name": "7792.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7792.jpg"
+  },
+  {
+    "image_name": "12583.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12583.jpg"
+  },
+  {
+    "image_name": "12586.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12586.jpg"
+  },
+  {
+    "image_name": "15981.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15981.jpg"
+  },
+  {
+    "image_name": "3111.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3111.jpg"
+  },
+  {
+    "image_name": "3490.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3490.jpg"
+  },
+  {
+    "image_name": "12575.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12575.jpg"
+  },
+  {
+    "image_name": "10773.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10773.jpg"
+  },
+  {
+    "image_name": "3474.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3474.jpg"
+  },
+  {
+    "image_name": "3023.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3023.jpg"
+  },
+  {
+    "image_name": "4922.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4922.jpg"
+  },
+  {
+    "image_name": "10784.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10784.jpg"
+  },
+  {
+    "image_name": "14044.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14044.jpg"
+  },
+  {
+    "image_name": "4029.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4029.jpg"
+  },
+  {
+    "image_name": "14007.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14007.jpg"
+  },
+  {
+    "image_name": "2398.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2398.jpg"
+  },
+  {
+    "image_name": "6685.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6685.jpg"
+  },
+  {
+    "image_name": "6046.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6046.jpg"
+  },
+  {
+    "image_name": "10816.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10816.jpg"
+  },
+  {
+    "image_name": "14004.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14004.jpg"
+  },
+  {
+    "image_name": "9821.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9821.jpg"
+  },
+  {
+    "image_name": "2378.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2378.jpg"
+  },
+  {
+    "image_name": "8648.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8648.jpg"
+  },
+  {
+    "image_name": "10783.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10783.jpg"
+  },
+  {
+    "image_name": "9221.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9221.jpg"
+  },
+  {
+    "image_name": "379.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/379.jpg"
+  },
+  {
+    "image_name": "14024.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14024.jpg"
+  },
+  {
+    "image_name": "6648.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6648.jpg"
+  },
+  {
+    "image_name": "16765.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16765.jpg"
+  },
+  {
+    "image_name": "4488.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4488.jpg"
+  },
+  {
+    "image_name": "12049.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12049.jpg"
+  },
+  {
+    "image_name": "4869.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4869.jpg"
+  },
+  {
+    "image_name": "9256.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9256.jpg"
+  },
+  {
+    "image_name": "13918.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13918.jpg"
+  },
+  {
+    "image_name": "12579.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12579.jpg"
+  },
+  {
+    "image_name": "13995.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13995.jpg"
+  },
+  {
+    "image_name": "4032.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4032.jpg"
+  },
+  {
+    "image_name": "12032.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12032.jpg"
+  },
+  {
+    "image_name": "3719.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3719.jpg"
+  },
+  {
+    "image_name": "15395.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15395.jpg"
+  },
+  {
+    "image_name": "12024.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12024.jpg"
+  },
+  {
+    "image_name": "10761.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10761.jpg"
+  },
+  {
+    "image_name": "14045.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14045.jpg"
+  },
+  {
+    "image_name": "15392.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15392.jpg"
+  },
+  {
+    "image_name": "16734.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16734.jpg"
+  },
+  {
+    "image_name": "6049.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6049.jpg"
+  },
+  {
+    "image_name": "16748.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16748.jpg"
+  },
+  {
+    "image_name": "9814.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9814.jpg"
+  },
+  {
+    "image_name": "5571.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5571.jpg"
+  },
+  {
+    "image_name": "1560.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1560.jpg"
+  },
+  {
+    "image_name": "1910.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1910.jpg"
+  },
+  {
+    "image_name": "15371.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15371.jpg"
+  },
+  {
+    "image_name": "5258.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5258.jpg"
+  },
+  {
+    "image_name": "9218.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9218.jpg"
+  },
+  {
+    "image_name": "13992.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13992.jpg"
+  },
+  {
+    "image_name": "2636.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2636.jpg"
+  },
+  {
+    "image_name": "8677.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8677.jpg"
+  },
+  {
+    "image_name": "12560.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12560.jpg"
+  },
+  {
+    "image_name": "9838.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9838.jpg"
+  },
+  {
+    "image_name": "3500.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3500.jpg"
+  },
+  {
+    "image_name": "9241.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9241.jpg"
+  },
+  {
+    "image_name": "6689.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6689.jpg"
+  },
+  {
+    "image_name": "14016.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14016.jpg"
+  },
+  {
+    "image_name": "15373.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15373.jpg"
+  },
+  {
+    "image_name": "15410.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15410.jpg"
+  },
+  {
+    "image_name": "2610.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2610.jpg"
+  },
+  {
+    "image_name": "7763.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7763.jpg"
+  },
+  {
+    "image_name": "4909.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4909.jpg"
+  },
+  {
+    "image_name": "9851.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9851.jpg"
+  },
+  {
+    "image_name": "7213.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7213.jpg"
+  },
+  {
+    "image_name": "3012.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3012.jpg"
+  },
+  {
+    "image_name": "16773.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16773.jpg"
+  },
+  {
+    "image_name": "14035.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14035.jpg"
+  },
+  {
+    "image_name": "646.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/646.jpg"
+  },
+  {
+    "image_name": "7801.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7801.jpg"
+  },
+  {
+    "image_name": "14039.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14039.jpg"
+  },
+  {
+    "image_name": "4903.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4903.jpg"
+  },
+  {
+    "image_name": "16760.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16760.jpg"
+  },
+  {
+    "image_name": "10829.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10829.jpg"
+  },
+  {
+    "image_name": "2535.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2535.jpg"
+  },
+  {
+    "image_name": "16752.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16752.jpg"
+  },
+  {
+    "image_name": "1880.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1880.jpg"
+  },
+  {
+    "image_name": "2078.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2078.jpg"
+  },
+  {
+    "image_name": "11590.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11590.jpg"
+  },
+  {
+    "image_name": "2887.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2887.jpg"
+  },
+  {
+    "image_name": "13913.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13913.jpg"
+  },
+  {
+    "image_name": "2621.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2621.jpg"
+  },
+  {
+    "image_name": "15972.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15972.jpg"
+  },
+  {
+    "image_name": "4919.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4919.jpg"
+  },
+  {
+    "image_name": "14011.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14011.jpg"
+  },
+  {
+    "image_name": "2911.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2911.jpg"
+  },
+  {
+    "image_name": "10441.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10441.jpg"
+  },
+  {
+    "image_name": "3234.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3234.jpg"
+  },
+  {
+    "image_name": "13948.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13948.jpg"
+  },
+  {
+    "image_name": "4237.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4237.jpg"
+  },
+  {
+    "image_name": "5148.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5148.jpg"
+  },
+  {
+    "image_name": "9836.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9836.jpg"
+  },
+  {
+    "image_name": "7757.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7757.jpg"
+  },
+  {
+    "image_name": "3329.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3329.jpg"
+  },
+  {
+    "image_name": "1549.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1549.jpg"
+  },
+  {
+    "image_name": "6675.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6675.jpg"
+  },
+  {
+    "image_name": "9239.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9239.jpg"
+  },
+  {
+    "image_name": "5547.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5547.jpg"
+  },
+  {
+    "image_name": "10831.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10831.jpg"
+  },
+  {
+    "image_name": "3523.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3523.jpg"
+  },
+  {
+    "image_name": "6687.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6687.jpg"
+  },
+  {
+    "image_name": "7755.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7755.jpg"
+  },
+  {
+    "image_name": "604.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/604.jpg"
+  },
+  {
+    "image_name": "8646.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8646.jpg"
+  },
+  {
+    "image_name": "3304.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3304.jpg"
+  },
+  {
+    "image_name": "11248.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11248.jpg"
+  },
+  {
+    "image_name": "11251.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11251.jpg"
+  },
+  {
+    "image_name": "3033.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3033.jpg"
+  },
+  {
+    "image_name": "16201.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16201.jpg"
+  },
+  {
+    "image_name": "10446.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10446.jpg"
+  },
+  {
+    "image_name": "14071.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14071.jpg"
+  },
+  {
+    "image_name": "4910.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4910.jpg"
+  },
+  {
+    "image_name": "3231.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3231.jpg"
+  },
+  {
+    "image_name": "2513.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2513.jpg"
+  },
+  {
+    "image_name": "1550.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1550.jpg"
+  },
+  {
+    "image_name": "5566.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5566.jpg"
+  },
+  {
+    "image_name": "6040.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6040.jpg"
+  },
+  {
+    "image_name": "1842.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1842.jpg"
+  },
+  {
+    "image_name": "9233.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9233.jpg"
+  },
+  {
+    "image_name": "6051.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6051.jpg"
+  },
+  {
+    "image_name": "3493.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3493.jpg"
+  },
+  {
+    "image_name": "6696.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6696.jpg"
+  },
+  {
+    "image_name": "15349.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15349.jpg"
+  },
+  {
+    "image_name": "2364.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2364.jpg"
+  },
+  {
+    "image_name": "14015.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14015.jpg"
+  },
+  {
+    "image_name": "6088.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6088.jpg"
+  },
+  {
+    "image_name": "2749.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2749.jpg"
+  },
+  {
+    "image_name": "12578.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12578.jpg"
+  },
+  {
+    "image_name": "9228.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9228.jpg"
+  },
+  {
+    "image_name": "3720.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3720.jpg"
+  },
+  {
+    "image_name": "267.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/267.jpg"
+  },
+  {
+    "image_name": "11591.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11591.jpg"
+  },
+  {
+    "image_name": "7190.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7190.jpg"
+  },
+  {
+    "image_name": "6096.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6096.jpg"
+  },
+  {
+    "image_name": "10455.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10455.jpg"
+  },
+  {
+    "image_name": "884.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/884.jpg"
+  },
+  {
+    "image_name": "526.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/526.jpg"
+  },
+  {
+    "image_name": "10756.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10756.jpg"
+  },
+  {
+    "image_name": "16780.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16780.jpg"
+  },
+  {
+    "image_name": "8669.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8669.jpg"
+  },
+  {
+    "image_name": "6658.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6658.jpg"
+  },
+  {
+    "image_name": "12565.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12565.jpg"
+  },
+  {
+    "image_name": "16732.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16732.jpg"
+  },
+  {
+    "image_name": "16746.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16746.jpg"
+  },
+  {
+    "image_name": "6053.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6053.jpg"
+  },
+  {
+    "image_name": "11604.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11604.jpg"
+  },
+  {
+    "image_name": "13910.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13910.jpg"
+  },
+  {
+    "image_name": "242.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/242.jpg"
+  },
+  {
+    "image_name": "11598.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11598.jpg"
+  },
+  {
+    "image_name": "10813.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10813.jpg"
+  },
+  {
+    "image_name": "3467.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3467.jpg"
+  },
+  {
+    "image_name": "10802.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10802.jpg"
+  },
+  {
+    "image_name": "13982.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13982.jpg"
+  },
+  {
+    "image_name": "14083.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14083.jpg"
+  },
+  {
+    "image_name": "4023.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4023.jpg"
+  },
+  {
+    "image_name": "5152.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5152.jpg"
+  },
+  {
+    "image_name": "10800.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10800.jpg"
+  },
+  {
+    "image_name": "7200.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7200.jpg"
+  },
+  {
+    "image_name": "4014.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4014.jpg"
+  },
+  {
+    "image_name": "8665.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8665.jpg"
+  },
+  {
+    "image_name": "6693.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6693.jpg"
+  },
+  {
+    "image_name": "2890.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2890.jpg"
+  },
+  {
+    "image_name": "15343.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15343.jpg"
+  },
+  {
+    "image_name": "10754.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10754.jpg"
+  },
+  {
+    "image_name": "9247.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9247.jpg"
+  },
+  {
+    "image_name": "6077.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6077.jpg"
+  },
+  {
+    "image_name": "12592.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12592.jpg"
+  },
+  {
+    "image_name": "8631.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8631.jpg"
+  },
+  {
+    "image_name": "8115.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8115.jpg"
+  },
+  {
+    "image_name": "1032.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1032.jpg"
+  },
+  {
+    "image_name": "14087.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14087.jpg"
+  },
+  {
+    "image_name": "863.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/863.jpg"
+  },
+  {
+    "image_name": "3718.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3718.jpg"
+  },
+  {
+    "image_name": "11613.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11613.jpg"
+  },
+  {
+    "image_name": "1915.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1915.jpg"
+  },
+  {
+    "image_name": "12022.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12022.jpg"
+  },
+  {
+    "image_name": "1716.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1716.jpg"
+  },
+  {
+    "image_name": "4892.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4892.jpg"
+  },
+  {
+    "image_name": "6698.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6698.jpg"
+  },
+  {
+    "image_name": "9813.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9813.jpg"
+  },
+  {
+    "image_name": "16737.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16737.jpg"
+  },
+  {
+    "image_name": "14058.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14058.jpg"
+  },
+  {
+    "image_name": "3506.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3506.jpg"
+  },
+  {
+    "image_name": "2931.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2931.jpg"
+  },
+  {
+    "image_name": "13927.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13927.jpg"
+  },
+  {
+    "image_name": "1617.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1617.jpg"
+  },
+  {
+    "image_name": "13941.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13941.jpg"
+  },
+  {
+    "image_name": "10807.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10807.jpg"
+  },
+  {
+    "image_name": "13962.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13962.jpg"
+  },
+  {
+    "image_name": "5577.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5577.jpg"
+  },
+  {
+    "image_name": "10820.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10820.jpg"
+  },
+  {
+    "image_name": "9861.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9861.jpg"
+  },
+  {
+    "image_name": "13916.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13916.jpg"
+  },
+  {
+    "image_name": "6643.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6643.jpg"
+  },
+  {
+    "image_name": "10429.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10429.jpg"
+  },
+  {
+    "image_name": "13979.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13979.jpg"
+  },
+  {
+    "image_name": "9262.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9262.jpg"
+  },
+  {
+    "image_name": "10433.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10433.jpg"
+  },
+  {
+    "image_name": "15400.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15400.jpg"
+  },
+  {
+    "image_name": "11620.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11620.jpg"
+  },
+  {
+    "image_name": "4483.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4483.jpg"
+  },
+  {
+    "image_name": "14084.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14084.jpg"
+  },
+  {
+    "image_name": "13957.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13957.jpg"
+  },
+  {
+    "image_name": "8621.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8621.jpg"
+  },
+  {
+    "image_name": "3379.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3379.jpg"
+  },
+  {
+    "image_name": "10445.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10445.jpg"
+  },
+  {
+    "image_name": "7767.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7767.jpg"
+  },
+  {
+    "image_name": "5553.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5553.jpg"
+  },
+  {
+    "image_name": "7795.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7795.jpg"
+  },
+  {
+    "image_name": "15983.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15983.jpg"
+  },
+  {
+    "image_name": "4867.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4867.jpg"
+  },
+  {
+    "image_name": "3657.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3657.jpg"
+  },
+  {
+    "image_name": "6660.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6660.jpg"
+  },
+  {
+    "image_name": "3471.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3471.jpg"
+  },
+  {
+    "image_name": "14003.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14003.jpg"
+  },
+  {
+    "image_name": "12562.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12562.jpg"
+  },
+  {
+    "image_name": "13921.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13921.jpg"
+  },
+  {
+    "image_name": "14066.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14066.jpg"
+  },
+  {
+    "image_name": "2371.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2371.jpg"
+  },
+  {
+    "image_name": "11602.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11602.jpg"
+  },
+  {
+    "image_name": "13963.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13963.jpg"
+  },
+  {
+    "image_name": "4047.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4047.jpg"
+  },
+  {
+    "image_name": "4039.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4039.jpg"
+  },
+  {
+    "image_name": "9226.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9226.jpg"
+  },
+  {
+    "image_name": "13990.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13990.jpg"
+  },
+  {
+    "image_name": "10832.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10832.jpg"
+  },
+  {
+    "image_name": "8627.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8627.jpg"
+  },
+  {
+    "image_name": "3290.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3290.jpg"
+  },
+  {
+    "image_name": "11617.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11617.jpg"
+  },
+  {
+    "image_name": "8676.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8676.jpg"
+  },
+  {
+    "image_name": "9251.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9251.jpg"
+  },
+  {
+    "image_name": "3478.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3478.jpg"
+  },
+  {
+    "image_name": "6055.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6055.jpg"
+  },
+  {
+    "image_name": "774.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/774.jpg"
+  },
+  {
+    "image_name": "10810.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10810.jpg"
+  },
+  {
+    "image_name": "7764.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7764.jpg"
+  },
+  {
+    "image_name": "11614.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11614.jpg"
+  },
+  {
+    "image_name": "16744.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16744.jpg"
+  },
+  {
+    "image_name": "5563.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5563.jpg"
+  },
+  {
+    "image_name": "4920.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4920.jpg"
+  },
+  {
+    "image_name": "6691.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6691.jpg"
+  },
+  {
+    "image_name": "16738.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16738.jpg"
+  },
+  {
+    "image_name": "14026.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14026.jpg"
+  },
+  {
+    "image_name": "2114.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2114.jpg"
+  },
+  {
+    "image_name": "15356.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15356.jpg"
+  },
+  {
+    "image_name": "14013.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14013.jpg"
+  },
+  {
+    "image_name": "12006.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12006.jpg"
+  },
+  {
+    "image_name": "9820.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9820.jpg"
+  },
+  {
+    "image_name": "14022.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14022.jpg"
+  },
+  {
+    "image_name": "7191.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7191.jpg"
+  },
+  {
+    "image_name": "16762.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16762.jpg"
+  },
+  {
+    "image_name": "8641.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8641.jpg"
+  },
+  {
+    "image_name": "2382.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2382.jpg"
+  },
+  {
+    "image_name": "9857.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9857.jpg"
+  },
+  {
+    "image_name": "3502.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3502.jpg"
+  },
+  {
+    "image_name": "7204.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7204.jpg"
+  },
+  {
+    "image_name": "15401.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15401.jpg"
+  },
+  {
+    "image_name": "13991.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13991.jpg"
+  },
+  {
+    "image_name": "13984.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13984.jpg"
+  },
+  {
+    "image_name": "5544.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5544.jpg"
+  },
+  {
+    "image_name": "4875.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4875.jpg"
+  },
+  {
+    "image_name": "16779.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16779.jpg"
+  },
+  {
+    "image_name": "14055.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14055.jpg"
+  },
+  {
+    "image_name": "14053.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14053.jpg"
+  },
+  {
+    "image_name": "14032.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14032.jpg"
+  },
+  {
+    "image_name": "7771.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7771.jpg"
+  },
+  {
+    "image_name": "1144.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1144.jpg"
+  },
+  {
+    "image_name": "14029.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14029.jpg"
+  },
+  {
+    "image_name": "7188.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7188.jpg"
+  },
+  {
+    "image_name": "10452.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10452.jpg"
+  },
+  {
+    "image_name": "6068.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6068.jpg"
+  },
+  {
+    "image_name": "15973.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15973.jpg"
+  },
+  {
+    "image_name": "13961.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13961.jpg"
+  },
+  {
+    "image_name": "10787.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10787.jpg"
+  },
+  {
+    "image_name": "6646.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6646.jpg"
+  },
+  {
+    "image_name": "15408.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15408.jpg"
+  },
+  {
+    "image_name": "3470.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3470.jpg"
+  },
+  {
+    "image_name": "13930.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13930.jpg"
+  },
+  {
+    "image_name": "10752.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10752.jpg"
+  },
+  {
+    "image_name": "6069.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6069.jpg"
+  },
+  {
+    "image_name": "13914.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13914.jpg"
+  },
+  {
+    "image_name": "12009.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12009.jpg"
+  },
+  {
+    "image_name": "7196.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7196.jpg"
+  },
+  {
+    "image_name": "4045.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4045.jpg"
+  },
+  {
+    "image_name": "3312.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3312.jpg"
+  },
+  {
+    "image_name": "14049.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14049.jpg"
+  },
+  {
+    "image_name": "12044.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12044.jpg"
+  },
+  {
+    "image_name": "4885.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4885.jpg"
+  },
+  {
+    "image_name": "13937.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13937.jpg"
+  },
+  {
+    "image_name": "5562.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5562.jpg"
+  },
+  {
+    "image_name": "3499.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3499.jpg"
+  },
+  {
+    "image_name": "4897.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4897.jpg"
+  },
+  {
+    "image_name": "6085.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6085.jpg"
+  },
+  {
+    "image_name": "16083.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16083.jpg"
+  },
+  {
+    "image_name": "4900.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4900.jpg"
+  },
+  {
+    "image_name": "9819.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9819.jpg"
+  },
+  {
+    "image_name": "676.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/676.jpg"
+  },
+  {
+    "image_name": "10824.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10824.jpg"
+  },
+  {
+    "image_name": "10763.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10763.jpg"
+  },
+  {
+    "image_name": "3011.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3011.jpg"
+  },
+  {
+    "image_name": "3203.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3203.jpg"
+  },
+  {
+    "image_name": "15397.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15397.jpg"
+  },
+  {
+    "image_name": "10769.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10769.jpg"
+  },
+  {
+    "image_name": "704.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/704.jpg"
+  },
+  {
+    "image_name": "9815.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9815.jpg"
+  },
+  {
+    "image_name": "14060.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14060.jpg"
+  },
+  {
+    "image_name": "276.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/276.jpg"
+  },
+  {
+    "image_name": "4876.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4876.jpg"
+  },
+  {
+    "image_name": "6663.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6663.jpg"
+  },
+  {
+    "image_name": "9223.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9223.jpg"
+  },
+  {
+    "image_name": "12585.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12585.jpg"
+  },
+  {
+    "image_name": "1309.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1309.jpg"
+  },
+  {
+    "image_name": "1900.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1900.jpg"
+  },
+  {
+    "image_name": "1123.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1123.jpg"
+  },
+  {
+    "image_name": "9272.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9272.jpg"
+  },
+  {
+    "image_name": "7206.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7206.jpg"
+  },
+  {
+    "image_name": "16775.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16775.jpg"
+  },
+  {
+    "image_name": "5310.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5310.jpg"
+  },
+  {
+    "image_name": "10776.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10776.jpg"
+  },
+  {
+    "image_name": "6074.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6074.jpg"
+  },
+  {
+    "image_name": "10745.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10745.jpg"
+  },
+  {
+    "image_name": "8622.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8622.jpg"
+  },
+  {
+    "image_name": "11619.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11619.jpg"
+  },
+  {
+    "image_name": "7780.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7780.jpg"
+  },
+  {
+    "image_name": "2503.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2503.jpg"
+  },
+  {
+    "image_name": "8666.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8666.jpg"
+  },
+  {
+    "image_name": "4019.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4019.jpg"
+  },
+  {
+    "image_name": "16079.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16079.jpg"
+  },
+  {
+    "image_name": "4912.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4912.jpg"
+  },
+  {
+    "image_name": "9224.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9224.jpg"
+  },
+  {
+    "image_name": "3480.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3480.jpg"
+  },
+  {
+    "image_name": "9831.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9831.jpg"
+  },
+  {
+    "image_name": "10814.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10814.jpg"
+  },
+  {
+    "image_name": "11588.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11588.jpg"
+  },
+  {
+    "image_name": "13976.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13976.jpg"
+  },
+  {
+    "image_name": "10758.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10758.jpg"
+  },
+  {
+    "image_name": "8118.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8118.jpg"
+  },
+  {
+    "image_name": "13972.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13972.jpg"
+  },
+  {
+    "image_name": "4028.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4028.jpg"
+  },
+  {
+    "image_name": "13945.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13945.jpg"
+  },
+  {
+    "image_name": "6083.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6083.jpg"
+  },
+  {
+    "image_name": "1621.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1621.jpg"
+  },
+  {
+    "image_name": "300.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/300.jpg"
+  },
+  {
+    "image_name": "14067.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14067.jpg"
+  },
+  {
+    "image_name": "15388.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15388.jpg"
+  },
+  {
+    "image_name": "16736.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16736.jpg"
+  },
+  {
+    "image_name": "15378.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15378.jpg"
+  },
+  {
+    "image_name": "2898.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2898.jpg"
+  },
+  {
+    "image_name": "13933.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13933.jpg"
+  },
+  {
+    "image_name": "10464.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10464.jpg"
+  },
+  {
+    "image_name": "5565.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5565.jpg"
+  },
+  {
+    "image_name": "15406.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15406.jpg"
+  },
+  {
+    "image_name": "11611.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11611.jpg"
+  },
+  {
+    "image_name": "10790.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10790.jpg"
+  },
+  {
+    "image_name": "8663.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8663.jpg"
+  },
+  {
+    "image_name": "2049.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2049.jpg"
+  },
+  {
+    "image_name": "2563.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2563.jpg"
+  },
+  {
+    "image_name": "10753.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10753.jpg"
+  },
+  {
+    "image_name": "3495.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3495.jpg"
+  },
+  {
+    "image_name": "14048.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14048.jpg"
+  },
+  {
+    "image_name": "1944.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1944.jpg"
+  },
+  {
+    "image_name": "4022.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4022.jpg"
+  },
+  {
+    "image_name": "10750.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10750.jpg"
+  },
+  {
+    "image_name": "10459.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10459.jpg"
+  },
+  {
+    "image_name": "9270.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9270.jpg"
+  },
+  {
+    "image_name": "3022.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3022.jpg"
+  },
+  {
+    "image_name": "7220.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7220.jpg"
+  },
+  {
+    "image_name": "12555.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12555.jpg"
+  },
+  {
+    "image_name": "3157.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3157.jpg"
+  },
+  {
+    "image_name": "10815.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10815.jpg"
+  },
+  {
+    "image_name": "6666.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6666.jpg"
+  },
+  {
+    "image_name": "16755.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16755.jpg"
+  },
+  {
+    "image_name": "7774.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7774.jpg"
+  },
+  {
+    "image_name": "15365.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15365.jpg"
+  },
+  {
+    "image_name": "8116.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8116.jpg"
+  },
+  {
+    "image_name": "9817.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9817.jpg"
+  },
+  {
+    "image_name": "6672.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6672.jpg"
+  },
+  {
+    "image_name": "4042.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4042.jpg"
+  },
+  {
+    "image_name": "6084.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6084.jpg"
+  },
+  {
+    "image_name": "10799.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10799.jpg"
+  },
+  {
+    "image_name": "13926.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13926.jpg"
+  },
+  {
+    "image_name": "14043.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14043.jpg"
+  },
+  {
+    "image_name": "14082.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14082.jpg"
+  },
+  {
+    "image_name": "14074.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14074.jpg"
+  },
+  {
+    "image_name": "3475.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3475.jpg"
+  },
+  {
+    "image_name": "9267.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9267.jpg"
+  },
+  {
+    "image_name": "12561.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12561.jpg"
+  },
+  {
+    "image_name": "6654.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6654.jpg"
+  },
+  {
+    "image_name": "5146.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5146.jpg"
+  },
+  {
+    "image_name": "6681.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6681.jpg"
+  },
+  {
+    "image_name": "4883.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4883.jpg"
+  },
+  {
+    "image_name": "12558.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12558.jpg"
+  },
+  {
+    "image_name": "3336.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3336.jpg"
+  },
+  {
+    "image_name": "14063.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14063.jpg"
+  },
+  {
+    "image_name": "6093.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6093.jpg"
+  },
+  {
+    "image_name": "189.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/189.jpg"
+  },
+  {
+    "image_name": "7770.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7770.jpg"
+  },
+  {
+    "image_name": "16200.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16200.jpg"
+  },
+  {
+    "image_name": "7189.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7189.jpg"
+  },
+  {
+    "image_name": "2963.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2963.jpg"
+  },
+  {
+    "image_name": "10465.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10465.jpg"
+  },
+  {
+    "image_name": "4041.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4041.jpg"
+  },
+  {
+    "image_name": "4030.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4030.jpg"
+  },
+  {
+    "image_name": "10428.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10428.jpg"
+  },
+  {
+    "image_name": "15407.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15407.jpg"
+  },
+  {
+    "image_name": "6664.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6664.jpg"
+  },
+  {
+    "image_name": "15976.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15976.jpg"
+  },
+  {
+    "image_name": "9816.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9816.jpg"
+  },
+  {
+    "image_name": "14012.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14012.jpg"
+  },
+  {
+    "image_name": "14078.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14078.jpg"
+  },
+  {
+    "image_name": "16784.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16784.jpg"
+  },
+  {
+    "image_name": "4053.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4053.jpg"
+  },
+  {
+    "image_name": "14019.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14019.jpg"
+  },
+  {
+    "image_name": "13919.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13919.jpg"
+  },
+  {
+    "image_name": "12030.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12030.jpg"
+  },
+  {
+    "image_name": "9254.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9254.jpg"
+  },
+  {
+    "image_name": "13999.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13999.jpg"
+  },
+  {
+    "image_name": "1037.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1037.jpg"
+  },
+  {
+    "image_name": "7751.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7751.jpg"
+  },
+  {
+    "image_name": "11252.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11252.jpg"
+  },
+  {
+    "image_name": "2716.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2716.jpg"
+  },
+  {
+    "image_name": "15351.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15351.jpg"
+  },
+  {
+    "image_name": "7175.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7175.jpg"
+  },
+  {
+    "image_name": "9833.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9833.jpg"
+  },
+  {
+    "image_name": "2497.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2497.jpg"
+  },
+  {
+    "image_name": "4872.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4872.jpg"
+  },
+  {
+    "image_name": "4048.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4048.jpg"
+  },
+  {
+    "image_name": "11592.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11592.jpg"
+  },
+  {
+    "image_name": "9240.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9240.jpg"
+  },
+  {
+    "image_name": "4024.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4024.jpg"
+  },
+  {
+    "image_name": "8624.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8624.jpg"
+  },
+  {
+    "image_name": "16194.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16194.jpg"
+  },
+  {
+    "image_name": "16753.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16753.jpg"
+  },
+  {
+    "image_name": "1542.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1542.jpg"
+  },
+  {
+    "image_name": "3486.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3486.jpg"
+  },
+  {
+    "image_name": "1852.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1852.jpg"
+  },
+  {
+    "image_name": "12026.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12026.jpg"
+  },
+  {
+    "image_name": "3488.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3488.jpg"
+  },
+  {
+    "image_name": "13928.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13928.jpg"
+  },
+  {
+    "image_name": "13946.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13946.jpg"
+  },
+  {
+    "image_name": "3487.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3487.jpg"
+  },
+  {
+    "image_name": "3010.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3010.jpg"
+  },
+  {
+    "image_name": "10812.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10812.jpg"
+  },
+  {
+    "image_name": "3468.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3468.jpg"
+  },
+  {
+    "image_name": "1109.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1109.jpg"
+  },
+  {
+    "image_name": "13923.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13923.jpg"
+  },
+  {
+    "image_name": "2655.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2655.jpg"
+  },
+  {
+    "image_name": "2366.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2366.jpg"
+  },
+  {
+    "image_name": "14069.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14069.jpg"
+  },
+  {
+    "image_name": "8626.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8626.jpg"
+  },
+  {
+    "image_name": "15374.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15374.jpg"
+  },
+  {
+    "image_name": "4013.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4013.jpg"
+  },
+  {
+    "image_name": "7805.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7805.jpg"
+  },
+  {
+    "image_name": "7793.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7793.jpg"
+  },
+  {
+    "image_name": "8639.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8639.jpg"
+  },
+  {
+    "image_name": "690.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/690.jpg"
+  },
+  {
+    "image_name": "1181.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1181.jpg"
+  },
+  {
+    "image_name": "8635.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8635.jpg"
+  },
+  {
+    "image_name": "3484.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3484.jpg"
+  },
+  {
+    "image_name": "7796.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7796.jpg"
+  },
+  {
+    "image_name": "13998.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13998.jpg"
+  },
+  {
+    "image_name": "9848.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9848.jpg"
+  },
+  {
+    "image_name": "6041.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6041.jpg"
+  },
+  {
+    "image_name": "2486.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2486.jpg"
+  },
+  {
+    "image_name": "11235.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11235.jpg"
+  },
+  {
+    "image_name": "11593.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11593.jpg"
+  },
+  {
+    "image_name": "6092.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6092.jpg"
+  },
+  {
+    "image_name": "9219.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9219.jpg"
+  },
+  {
+    "image_name": "13960.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13960.jpg"
+  },
+  {
+    "image_name": "16751.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16751.jpg"
+  },
+  {
+    "image_name": "6059.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6059.jpg"
+  },
+  {
+    "image_name": "14075.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14075.jpg"
+  },
+  {
+    "image_name": "14046.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14046.jpg"
+  },
+  {
+    "image_name": "4034.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4034.jpg"
+  },
+  {
+    "image_name": "4049.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4049.jpg"
+  },
+  {
+    "image_name": "9257.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9257.jpg"
+  },
+  {
+    "image_name": "10421.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10421.jpg"
+  },
+  {
+    "image_name": "8628.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8628.jpg"
+  },
+  {
+    "image_name": "12027.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12027.jpg"
+  },
+  {
+    "image_name": "14034.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14034.jpg"
+  },
+  {
+    "image_name": "6699.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6699.jpg"
+  },
+  {
+    "image_name": "3138.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3138.jpg"
+  },
+  {
+    "image_name": "15344.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15344.jpg"
+  },
+  {
+    "image_name": "1500.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1500.jpg"
+  },
+  {
+    "image_name": "4437.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4437.jpg"
+  },
+  {
+    "image_name": "7211.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7211.jpg"
+  },
+  {
+    "image_name": "7207.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7207.jpg"
+  },
+  {
+    "image_name": "3102.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3102.jpg"
+  },
+  {
+    "image_name": "15376.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15376.jpg"
+  },
+  {
+    "image_name": "10764.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10764.jpg"
+  },
+  {
+    "image_name": "12553.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12553.jpg"
+  },
+  {
+    "image_name": "15404.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15404.jpg"
+  },
+  {
+    "image_name": "6050.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6050.jpg"
+  },
+  {
+    "image_name": "4243.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4243.jpg"
+  },
+  {
+    "image_name": "10805.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10805.jpg"
+  },
+  {
+    "image_name": "490.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/490.jpg"
+  },
+  {
+    "image_name": "9812.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9812.jpg"
+  },
+  {
+    "image_name": "12582.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12582.jpg"
+  },
+  {
+    "image_name": "13959.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13959.jpg"
+  },
+  {
+    "image_name": "4035.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4035.jpg"
+  },
+  {
+    "image_name": "8668.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8668.jpg"
+  },
+  {
+    "image_name": "4879.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4879.jpg"
+  },
+  {
+    "image_name": "14028.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14028.jpg"
+  },
+  {
+    "image_name": "11600.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11600.jpg"
+  },
+  {
+    "image_name": "11607.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11607.jpg"
+  },
+  {
+    "image_name": "2583.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2583.jpg"
+  },
+  {
+    "image_name": "6047.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6047.jpg"
+  },
+  {
+    "image_name": "6052.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6052.jpg"
+  },
+  {
+    "image_name": "9274.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9274.jpg"
+  },
+  {
+    "image_name": "12013.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12013.jpg"
+  },
+  {
+    "image_name": "3505.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3505.jpg"
+  },
+  {
+    "image_name": "1474.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1474.jpg"
+  },
+  {
+    "image_name": "1896.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1896.jpg"
+  },
+  {
+    "image_name": "4906.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4906.jpg"
+  },
+  {
+    "image_name": "16777.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16777.jpg"
+  },
+  {
+    "image_name": "10426.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10426.jpg"
+  },
+  {
+    "image_name": "16783.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16783.jpg"
+  },
+  {
+    "image_name": "15357.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15357.jpg"
+  },
+  {
+    "image_name": "16080.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16080.jpg"
+  },
+  {
+    "image_name": "9822.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9822.jpg"
+  },
+  {
+    "image_name": "1125.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1125.jpg"
+  },
+  {
+    "image_name": "13981.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13981.jpg"
+  },
+  {
+    "image_name": "16202.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16202.jpg"
+  },
+  {
+    "image_name": "15384.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15384.jpg"
+  },
+  {
+    "image_name": "2894.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2894.jpg"
+  },
+  {
+    "image_name": "13915.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13915.jpg"
+  },
+  {
+    "image_name": "10749.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10749.jpg"
+  },
+  {
+    "image_name": "7777.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7777.jpg"
+  },
+  {
+    "image_name": "14079.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14079.jpg"
+  },
+  {
+    "image_name": "8667.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8667.jpg"
+  },
+  {
+    "image_name": "765.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/765.jpg"
+  },
+  {
+    "image_name": "3722.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3722.jpg"
+  },
+  {
+    "image_name": "12050.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12050.jpg"
+  },
+  {
+    "image_name": "3220.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3220.jpg"
+  },
+  {
+    "image_name": "3016.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3016.jpg"
+  },
+  {
+    "image_name": "3656.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3656.jpg"
+  },
+  {
+    "image_name": "8653.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8653.jpg"
+  },
+  {
+    "image_name": "1975.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1975.jpg"
+  },
+  {
+    "image_name": "9853.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9853.jpg"
+  },
+  {
+    "image_name": "3464.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3464.jpg"
+  },
+  {
+    "image_name": "16750.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16750.jpg"
+  },
+  {
+    "image_name": "8657.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8657.jpg"
+  },
+  {
+    "image_name": "13958.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13958.jpg"
+  },
+  {
+    "image_name": "119.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/119.jpg"
+  },
+  {
+    "image_name": "4043.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4043.jpg"
+  },
+  {
+    "image_name": "3476.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3476.jpg"
+  },
+  {
+    "image_name": "10794.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10794.jpg"
+  },
+  {
+    "image_name": "9847.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9847.jpg"
+  },
+  {
+    "image_name": "813.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/813.jpg"
+  },
+  {
+    "image_name": "14080.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14080.jpg"
+  },
+  {
+    "image_name": "3233.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3233.jpg"
+  },
+  {
+    "image_name": "15396.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15396.jpg"
+  },
+  {
+    "image_name": "12048.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12048.jpg"
+  },
+  {
+    "image_name": "7785.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7785.jpg"
+  },
+  {
+    "image_name": "1157.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1157.jpg"
+  },
+  {
+    "image_name": "887.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/887.jpg"
+  },
+  {
+    "image_name": "13953.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13953.jpg"
+  },
+  {
+    "image_name": "16743.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16743.jpg"
+  },
+  {
+    "image_name": "10443.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10443.jpg"
+  },
+  {
+    "image_name": "9860.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9860.jpg"
+  },
+  {
+    "image_name": "3510.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3510.jpg"
+  },
+  {
+    "image_name": "1959.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1959.jpg"
+  },
+  {
+    "image_name": "7176.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7176.jpg"
+  },
+  {
+    "image_name": "15381.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15381.jpg"
+  },
+  {
+    "image_name": "12593.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12593.jpg"
+  },
+  {
+    "image_name": "2198.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2198.jpg"
+  },
+  {
+    "image_name": "6650.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6650.jpg"
+  },
+  {
+    "image_name": "15359.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15359.jpg"
+  },
+  {
+    "image_name": "15377.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15377.jpg"
+  },
+  {
+    "image_name": "9818.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9818.jpg"
+  },
+  {
+    "image_name": "10461.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10461.jpg"
+  },
+  {
+    "image_name": "16733.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16733.jpg"
+  },
+  {
+    "image_name": "15974.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15974.jpg"
+  },
+  {
+    "image_name": "16776.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16776.jpg"
+  },
+  {
+    "image_name": "5556.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5556.jpg"
+  },
+  {
+    "image_name": "10448.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10448.jpg"
+  },
+  {
+    "image_name": "11597.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11597.jpg"
+  },
+  {
+    "image_name": "944.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/944.jpg"
+  },
+  {
+    "image_name": "9859.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9859.jpg"
+  },
+  {
+    "image_name": "14085.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14085.jpg"
+  },
+  {
+    "image_name": "6071.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6071.jpg"
+  },
+  {
+    "image_name": "7198.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7198.jpg"
+  },
+  {
+    "image_name": "693.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/693.jpg"
+  },
+  {
+    "image_name": "8647.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8647.jpg"
+  },
+  {
+    "image_name": "5573.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5573.jpg"
+  },
+  {
+    "image_name": "7768.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7768.jpg"
+  },
+  {
+    "image_name": "3655.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3655.jpg"
+  },
+  {
+    "image_name": "11237.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11237.jpg"
+  },
+  {
+    "image_name": "619.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/619.jpg"
+  },
+  {
+    "image_name": "2109.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2109.jpg"
+  },
+  {
+    "image_name": "7192.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7192.jpg"
+  },
+  {
+    "image_name": "2781.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2781.jpg"
+  },
+  {
+    "image_name": "14042.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14042.jpg"
+  },
+  {
+    "image_name": "5554.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5554.jpg"
+  },
+  {
+    "image_name": "803.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/803.jpg"
+  },
+  {
+    "image_name": "7210.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7210.jpg"
+  },
+  {
+    "image_name": "11622.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11622.jpg"
+  },
+  {
+    "image_name": "13942.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13942.jpg"
+  },
+  {
+    "image_name": "3491.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3491.jpg"
+  },
+  {
+    "image_name": "3025.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3025.jpg"
+  },
+  {
+    "image_name": "7804.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7804.jpg"
+  },
+  {
+    "image_name": "10450.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10450.jpg"
+  },
+  {
+    "image_name": "9269.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9269.jpg"
+  },
+  {
+    "image_name": "9862.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9862.jpg"
+  },
+  {
+    "image_name": "13980.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13980.jpg"
+  },
+  {
+    "image_name": "10436.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10436.jpg"
+  },
+  {
+    "image_name": "13970.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13970.jpg"
+  },
+  {
+    "image_name": "5560.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5560.jpg"
+  },
+  {
+    "image_name": "6039.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6039.jpg"
+  },
+  {
+    "image_name": "9248.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9248.jpg"
+  },
+  {
+    "image_name": "5575.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5575.jpg"
+  },
+  {
+    "image_name": "15977.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15977.jpg"
+  },
+  {
+    "image_name": "6057.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6057.jpg"
+  },
+  {
+    "image_name": "13924.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13924.jpg"
+  },
+  {
+    "image_name": "382.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/382.jpg"
+  },
+  {
+    "image_name": "8640.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8640.jpg"
+  },
+  {
+    "image_name": "10796.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10796.jpg"
+  },
+  {
+    "image_name": "10767.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10767.jpg"
+  },
+  {
+    "image_name": "2094.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2094.jpg"
+  },
+  {
+    "image_name": "3489.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3489.jpg"
+  },
+  {
+    "image_name": "11234.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11234.jpg"
+  },
+  {
+    "image_name": "566.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/566.jpg"
+  },
+  {
+    "image_name": "14010.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14010.jpg"
+  },
+  {
+    "image_name": "7779.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7779.jpg"
+  },
+  {
+    "image_name": "4054.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4054.jpg"
+  },
+  {
+    "image_name": "13908.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13908.jpg"
+  },
+  {
+    "image_name": "7788.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7788.jpg"
+  },
+  {
+    "image_name": "2228.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2228.jpg"
+  },
+  {
+    "image_name": "14056.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14056.jpg"
+  },
+  {
+    "image_name": "12576.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12576.jpg"
+  },
+  {
+    "image_name": "12037.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12037.jpg"
+  },
+  {
+    "image_name": "11610.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11610.jpg"
+  },
+  {
+    "image_name": "12008.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12008.jpg"
+  },
+  {
+    "image_name": "7799.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7799.jpg"
+  },
+  {
+    "image_name": "6048.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6048.jpg"
+  },
+  {
+    "image_name": "7215.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7215.jpg"
+  },
+  {
+    "image_name": "5256.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5256.jpg"
+  },
+  {
+    "image_name": "10760.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10760.jpg"
+  },
+  {
+    "image_name": "3465.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3465.jpg"
+  },
+  {
+    "image_name": "116.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/116.jpg"
+  },
+  {
+    "image_name": "652.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/652.jpg"
+  },
+  {
+    "image_name": "6656.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6656.jpg"
+  },
+  {
+    "image_name": "13909.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13909.jpg"
+  },
+  {
+    "image_name": "71.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/71.jpg"
+  },
+  {
+    "image_name": "8625.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8625.jpg"
+  },
+  {
+    "image_name": "3516.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3516.jpg"
+  },
+  {
+    "image_name": "9250.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9250.jpg"
+  },
+  {
+    "image_name": "3067.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3067.jpg"
+  },
+  {
+    "image_name": "8675.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8675.jpg"
+  },
+  {
+    "image_name": "9829.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9829.jpg"
+  },
+  {
+    "image_name": "162.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/162.jpg"
+  },
+  {
+    "image_name": "352.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/352.jpg"
+  },
+  {
+    "image_name": "13940.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13940.jpg"
+  },
+  {
+    "image_name": "4021.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4021.jpg"
+  },
+  {
+    "image_name": "1990.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1990.jpg"
+  },
+  {
+    "image_name": "14018.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14018.jpg"
+  },
+  {
+    "image_name": "5549.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5549.jpg"
+  },
+  {
+    "image_name": "7174.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7174.jpg"
+  },
+  {
+    "image_name": "9849.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9849.jpg"
+  },
+  {
+    "image_name": "10774.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10774.jpg"
+  },
+  {
+    "image_name": "780.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/780.jpg"
+  },
+  {
+    "image_name": "4015.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4015.jpg"
+  },
+  {
+    "image_name": "15354.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15354.jpg"
+  },
+  {
+    "image_name": "16204.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16204.jpg"
+  },
+  {
+    "image_name": "10424.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10424.jpg"
+  },
+  {
+    "image_name": "4482.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4482.jpg"
+  },
+  {
+    "image_name": "767.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/767.jpg"
+  },
+  {
+    "image_name": "8636.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8636.jpg"
+  },
+  {
+    "image_name": "10788.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10788.jpg"
+  },
+  {
+    "image_name": "1224.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1224.jpg"
+  },
+  {
+    "image_name": "9220.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9220.jpg"
+  },
+  {
+    "image_name": "16197.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16197.jpg"
+  },
+  {
+    "image_name": "4242.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4242.jpg"
+  },
+  {
+    "image_name": "12566.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12566.jpg"
+  },
+  {
+    "image_name": "16741.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16741.jpg"
+  },
+  {
+    "image_name": "9244.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9244.jpg"
+  },
+  {
+    "image_name": "4901.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4901.jpg"
+  },
+  {
+    "image_name": "12046.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12046.jpg"
+  },
+  {
+    "image_name": "501.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/501.jpg"
+  },
+  {
+    "image_name": "9217.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9217.jpg"
+  },
+  {
+    "image_name": "10786.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10786.jpg"
+  },
+  {
+    "image_name": "2698.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2698.jpg"
+  },
+  {
+    "image_name": "1171.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1171.jpg"
+  },
+  {
+    "image_name": "10419.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10419.jpg"
+  },
+  {
+    "image_name": "16781.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16781.jpg"
+  },
+  {
+    "image_name": "15355.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15355.jpg"
+  },
+  {
+    "image_name": "10742.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10742.jpg"
+  },
+  {
+    "image_name": "6075.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6075.jpg"
+  },
+  {
+    "image_name": "8643.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8643.jpg"
+  },
+  {
+    "image_name": "4908.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4908.jpg"
+  },
+  {
+    "image_name": "14009.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14009.jpg"
+  },
+  {
+    "image_name": "6684.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6684.jpg"
+  },
+  {
+    "image_name": "12035.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12035.jpg"
+  },
+  {
+    "image_name": "510.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/510.jpg"
+  },
+  {
+    "image_name": "7214.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7214.jpg"
+  },
+  {
+    "image_name": "3521.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3521.jpg"
+  },
+  {
+    "image_name": "10806.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10806.jpg"
+  },
+  {
+    "image_name": "8672.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8672.jpg"
+  },
+  {
+    "image_name": "9255.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9255.jpg"
+  },
+  {
+    "image_name": "15382.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15382.jpg"
+  },
+  {
+    "image_name": "13968.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13968.jpg"
+  },
+  {
+    "image_name": "8645.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8645.jpg"
+  },
+  {
+    "image_name": "7184.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7184.jpg"
+  },
+  {
+    "image_name": "7216.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7216.jpg"
+  },
+  {
+    "image_name": "16771.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16771.jpg"
+  },
+  {
+    "image_name": "8662.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8662.jpg"
+  },
+  {
+    "image_name": "6655.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6655.jpg"
+  },
+  {
+    "image_name": "48.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/48.jpg"
+  },
+  {
+    "image_name": "8658.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8658.jpg"
+  },
+  {
+    "image_name": "1136.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1136.jpg"
+  },
+  {
+    "image_name": "4889.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4889.jpg"
+  },
+  {
+    "image_name": "3717.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3717.jpg"
+  },
+  {
+    "image_name": "10417.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10417.jpg"
+  },
+  {
+    "image_name": "2005.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2005.jpg"
+  },
+  {
+    "image_name": "9249.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9249.jpg"
+  },
+  {
+    "image_name": "7179.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7179.jpg"
+  },
+  {
+    "image_name": "15380.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15380.jpg"
+  },
+  {
+    "image_name": "3519.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3519.jpg"
+  },
+  {
+    "image_name": "4036.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4036.jpg"
+  },
+  {
+    "image_name": "5555.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5555.jpg"
+  },
+  {
+    "image_name": "124.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/124.jpg"
+  },
+  {
+    "image_name": "2110.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2110.jpg"
+  },
+  {
+    "image_name": "13996.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13996.jpg"
+  },
+  {
+    "image_name": "11621.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11621.jpg"
+  },
+  {
+    "image_name": "12577.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12577.jpg"
+  },
+  {
+    "image_name": "7760.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7760.jpg"
+  },
+  {
+    "image_name": "7172.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7172.jpg"
+  },
+  {
+    "image_name": "2593.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2593.jpg"
+  },
+  {
+    "image_name": "16782.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16782.jpg"
+  },
+  {
+    "image_name": "10809.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10809.jpg"
+  },
+  {
+    "image_name": "6063.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6063.jpg"
+  },
+  {
+    "image_name": "3060.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3060.jpg"
+  },
+  {
+    "image_name": "10430.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10430.jpg"
+  },
+  {
+    "image_name": "10425.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10425.jpg"
+  },
+  {
+    "image_name": "13950.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13950.jpg"
+  },
+  {
+    "image_name": "4866.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4866.jpg"
+  },
+  {
+    "image_name": "12564.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12564.jpg"
+  },
+  {
+    "image_name": "6686.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6686.jpg"
+  },
+  {
+    "image_name": "3239.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3239.jpg"
+  },
+  {
+    "image_name": "529.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/529.jpg"
+  },
+  {
+    "image_name": "14038.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14038.jpg"
+  },
+  {
+    "image_name": "12038.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12038.jpg"
+  },
+  {
+    "image_name": "2019.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2019.jpg"
+  },
+  {
+    "image_name": "2360.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2360.jpg"
+  },
+  {
+    "image_name": "11615.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11615.jpg"
+  },
+  {
+    "image_name": "3477.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3477.jpg"
+  },
+  {
+    "image_name": "2459.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2459.jpg"
+  },
+  {
+    "image_name": "1350.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1350.jpg"
+  },
+  {
+    "image_name": "12556.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12556.jpg"
+  },
+  {
+    "image_name": "465.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/465.jpg"
+  },
+  {
+    "image_name": "2018.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2018.jpg"
+  },
+  {
+    "image_name": "9227.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9227.jpg"
+  },
+  {
+    "image_name": "7752.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7752.jpg"
+  },
+  {
+    "image_name": "4052.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4052.jpg"
+  },
+  {
+    "image_name": "1506.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1506.jpg"
+  },
+  {
+    "image_name": "7195.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7195.jpg"
+  },
+  {
+    "image_name": "4051.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4051.jpg"
+  },
+  {
+    "image_name": "7775.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7775.jpg"
+  },
+  {
+    "image_name": "3066.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3066.jpg"
+  },
+  {
+    "image_name": "3318.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3318.jpg"
+  },
+  {
+    "image_name": "179.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/179.jpg"
+  },
+  {
+    "image_name": "11236.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11236.jpg"
+  },
+  {
+    "image_name": "9845.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9845.jpg"
+  },
+  {
+    "image_name": "16747.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16747.jpg"
+  },
+  {
+    "image_name": "10801.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10801.jpg"
+  },
+  {
+    "image_name": "16754.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16754.jpg"
+  },
+  {
+    "image_name": "460.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/460.jpg"
+  },
+  {
+    "image_name": "2648.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2648.jpg"
+  },
+  {
+    "image_name": "14037.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14037.jpg"
+  },
+  {
+    "image_name": "8673.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8673.jpg"
+  },
+  {
+    "image_name": "14077.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14077.jpg"
+  },
+  {
+    "image_name": "3517.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3517.jpg"
+  },
+  {
+    "image_name": "12045.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12045.jpg"
+  },
+  {
+    "image_name": "12031.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12031.jpg"
+  },
+  {
+    "image_name": "6641.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6641.jpg"
+  },
+  {
+    "image_name": "9835.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9835.jpg"
+  },
+  {
+    "image_name": "6070.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6070.jpg"
+  },
+  {
+    "image_name": "9830.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9830.jpg"
+  },
+  {
+    "image_name": "4050.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4050.jpg"
+  },
+  {
+    "image_name": "2642.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2642.jpg"
+  },
+  {
+    "image_name": "9236.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9236.jpg"
+  },
+  {
+    "image_name": "6695.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6695.jpg"
+  },
+  {
+    "image_name": "12574.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12574.jpg"
+  },
+  {
+    "image_name": "12557.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12557.jpg"
+  },
+  {
+    "image_name": "6062.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6062.jpg"
+  },
+  {
+    "image_name": "5543.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5543.jpg"
+  },
+  {
+    "image_name": "7787.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7787.jpg"
+  },
+  {
+    "image_name": "14031.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14031.jpg"
+  },
+  {
+    "image_name": "10740.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10740.jpg"
+  },
+  {
+    "image_name": "1389.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1389.jpg"
+  },
+  {
+    "image_name": "2508.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2508.jpg"
+  },
+  {
+    "image_name": "6649.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6649.jpg"
+  },
+  {
+    "image_name": "6054.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6054.jpg"
+  },
+  {
+    "image_name": "7783.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7783.jpg"
+  },
+  {
+    "image_name": "14017.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14017.jpg"
+  },
+  {
+    "image_name": "14000.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14000.jpg"
+  },
+  {
+    "image_name": "15379.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15379.jpg"
+  },
+  {
+    "image_name": "2551.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2551.jpg"
+  },
+  {
+    "image_name": "3501.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3501.jpg"
+  },
+  {
+    "image_name": "10451.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10451.jpg"
+  },
+  {
+    "image_name": "9261.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9261.jpg"
+  },
+  {
+    "image_name": "8661.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8661.jpg"
+  },
+  {
+    "image_name": "15970.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15970.jpg"
+  },
+  {
+    "image_name": "13936.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13936.jpg"
+  },
+  {
+    "image_name": "3242.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3242.jpg"
+  },
+  {
+    "image_name": "5545.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5545.jpg"
+  },
+  {
+    "image_name": "6056.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6056.jpg"
+  },
+  {
+    "image_name": "9225.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9225.jpg"
+  },
+  {
+    "image_name": "16742.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16742.jpg"
+  },
+  {
+    "image_name": "16078.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16078.jpg"
+  },
+  {
+    "image_name": "9222.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9222.jpg"
+  },
+  {
+    "image_name": "15360.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15360.jpg"
+  },
+  {
+    "image_name": "13955.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13955.jpg"
+  },
+  {
+    "image_name": "9266.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9266.jpg"
+  },
+  {
+    "image_name": "12043.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12043.jpg"
+  },
+  {
+    "image_name": "5548.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5548.jpg"
+  },
+  {
+    "image_name": "10782.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10782.jpg"
+  },
+  {
+    "image_name": "6079.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6079.jpg"
+  },
+  {
+    "image_name": "479.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/479.jpg"
+  },
+  {
+    "image_name": "151.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/151.jpg"
+  },
+  {
+    "image_name": "10768.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10768.jpg"
+  },
+  {
+    "image_name": "3482.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3482.jpg"
+  },
+  {
+    "image_name": "11595.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11595.jpg"
+  },
+  {
+    "image_name": "7181.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7181.jpg"
+  },
+  {
+    "image_name": "13931.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13931.jpg"
+  },
+  {
+    "image_name": "11596.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11596.jpg"
+  },
+  {
+    "image_name": "2990.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2990.jpg"
+  },
+  {
+    "image_name": "16081.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16081.jpg"
+  },
+  {
+    "image_name": "7219.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7219.jpg"
+  },
+  {
+    "image_name": "9825.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9825.jpg"
+  },
+  {
+    "image_name": "11599.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11599.jpg"
+  },
+  {
+    "image_name": "828.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/828.jpg"
+  },
+  {
+    "image_name": "12568.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12568.jpg"
+  },
+  {
+    "image_name": "9246.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9246.jpg"
+  },
+  {
+    "image_name": "393.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/393.jpg"
+  },
+  {
+    "image_name": "15978.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15978.jpg"
+  },
+  {
+    "image_name": "113.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/113.jpg"
+  },
+  {
+    "image_name": "16076.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16076.jpg"
+  },
+  {
+    "image_name": "10442.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10442.jpg"
+  },
+  {
+    "image_name": "2390.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2390.jpg"
+  },
+  {
+    "image_name": "4038.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4038.jpg"
+  },
+  {
+    "image_name": "1254.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1254.jpg"
+  },
+  {
+    "image_name": "10432.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10432.jpg"
+  },
+  {
+    "image_name": "6043.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6043.jpg"
+  },
+  {
+    "image_name": "143.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/143.jpg"
+  },
+  {
+    "image_name": "14027.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14027.jpg"
+  },
+  {
+    "image_name": "10823.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10823.jpg"
+  },
+  {
+    "image_name": "7761.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7761.jpg"
+  },
+  {
+    "image_name": "3716.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3716.jpg"
+  },
+  {
+    "image_name": "5308.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5308.jpg"
+  },
+  {
+    "image_name": "11585.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11585.jpg"
+  },
+  {
+    "image_name": "4899.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4899.jpg"
+  },
+  {
+    "image_name": "6683.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6683.jpg"
+  },
+  {
+    "image_name": "552.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/552.jpg"
+  },
+  {
+    "image_name": "16082.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16082.jpg"
+  },
+  {
+    "image_name": "1572.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1572.jpg"
+  },
+  {
+    "image_name": "6692.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6692.jpg"
+  },
+  {
+    "image_name": "10444.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10444.jpg"
+  },
+  {
+    "image_name": "5309.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/5309.jpg"
+  },
+  {
+    "image_name": "12047.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12047.jpg"
+  },
+  {
+    "image_name": "4046.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4046.jpg"
+  },
+  {
+    "image_name": "4904.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4904.jpg"
+  },
+  {
+    "image_name": "6694.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6694.jpg"
+  },
+  {
+    "image_name": "6042.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6042.jpg"
+  },
+  {
+    "image_name": "14021.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14021.jpg"
+  },
+  {
+    "image_name": "7180.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7180.jpg"
+  },
+  {
+    "image_name": "1003.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1003.jpg"
+  },
+  {
+    "image_name": "6659.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6659.jpg"
+  },
+  {
+    "image_name": "8619.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8619.jpg"
+  },
+  {
+    "image_name": "1821.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1821.jpg"
+  },
+  {
+    "image_name": "6098.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6098.jpg"
+  },
+  {
+    "image_name": "7201.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7201.jpg"
+  },
+  {
+    "image_name": "4487.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4487.jpg"
+  },
+  {
+    "image_name": "11586.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11586.jpg"
+  },
+  {
+    "image_name": "1089.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1089.jpg"
+  },
+  {
+    "image_name": "13965.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13965.jpg"
+  },
+  {
+    "image_name": "4033.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4033.jpg"
+  },
+  {
+    "image_name": "13969.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13969.jpg"
+  },
+  {
+    "image_name": "13929.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/13929.jpg"
+  },
+  {
+    "image_name": "14001.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/14001.jpg"
+  },
+  {
+    "image_name": "10775.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10775.jpg"
+  },
+  {
+    "image_name": "15414.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/15414.jpg"
+  },
+  {
+    "image_name": "2983.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2983.jpg"
+  },
+  {
+    "image_name": "3126.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3126.jpg"
+  },
+  {
+    "image_name": "8651.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8651.jpg"
+  },
+  {
+    "image_name": "10747.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/10747.jpg"
+  },
+  {
+    "image_name": "16763.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16763.jpg"
+  },
+  {
+    "image_name": "4881.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4881.jpg"
+  },
+  {
+    "image_name": "7203.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7203.jpg"
+  },
+  {
+    "image_name": "4026.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4026.jpg"
+  },
+  {
+    "image_name": "1520.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/1520.jpg"
+  },
+  {
+    "image_name": "7217.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7217.jpg"
+  },
+  {
+    "image_name": "735.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/735.jpg"
+  },
+  {
+    "image_name": "16198.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16198.jpg"
+  },
+  {
+    "image_name": "16768.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16768.jpg"
+  },
+  {
+    "image_name": "4016.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4016.jpg"
+  },
+  {
+    "image_name": "12581.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12581.jpg"
+  },
+  {
+    "image_name": "7208.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7208.jpg"
+  },
+  {
+    "image_name": "2162.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2162.jpg"
+  },
+  {
+    "image_name": "8618.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/8618.jpg"
+  },
+  {
+    "image_name": "12042.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12042.jpg"
+  },
+  {
+    "image_name": "3181.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3181.jpg"
+  },
+  {
+    "image_name": "3507.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3507.jpg"
+  },
+  {
+    "image_name": "7762.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7762.jpg"
+  },
+  {
+    "image_name": "3654.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3654.jpg"
+  },
+  {
+    "image_name": "3247.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3247.jpg"
+  },
+  {
+    "image_name": "16077.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/16077.jpg"
+  },
+  {
+    "image_name": "11583.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11583.jpg"
+  },
+  {
+    "image_name": "3264.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3264.jpg"
+  },
+  {
+    "image_name": "9216.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/9216.jpg"
+  },
+  {
+    "image_name": "3492.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3492.jpg"
+  },
+  {
+    "image_name": "12034.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12034.jpg"
+  },
+  {
+    "image_name": "7199.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7199.jpg"
+  },
+  {
+    "image_name": "2428.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/2428.jpg"
+  },
+  {
+    "image_name": "7218.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7218.jpg"
+  },
+  {
+    "image_name": "6044.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/6044.jpg"
+  },
+  {
+    "image_name": "7178.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7178.jpg"
+  },
+  {
+    "image_name": "4890.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4890.jpg"
+  },
+  {
+    "image_name": "11250.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/11250.jpg"
+  },
+  {
+    "image_name": "12041.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12041.jpg"
+  },
+  {
+    "image_name": "4040.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4040.jpg"
+  },
+  {
+    "image_name": "4044.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/4044.jpg"
+  },
+  {
+    "image_name": "12036.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/12036.jpg"
+  },
+  {
+    "image_name": "3211.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/3211.jpg"
+  },
+  {
+    "image_name": "370.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/370.jpg"
+  },
+  {
+    "image_name": "7186.jpg",
+    "image_path": "/root/autodl-tmp/qwen_vl/finetune_data/val/7186.jpg"
+  }
+]
